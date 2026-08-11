@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Etymology Explorer</title>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='styles.css') }}"
+>
+</head>
+
+<body>
+
+<div class="layout">
+
+    <!-- SIDEBAR -->
+    <aside
+        class="sidebar"
+        id="sidebar"
+    >
+
+        <div class="sidebar-header">
+            <h3>Words</h3>
+        </div>
+
+        <!-- SEARCH BOX -->
+        <input
+            type="text"
+            id="word-search"
+            placeholder="🔍 Search words..."
+        >
+
+        <div id="word-list"></div>
+
+    </aside>
+
+    <!-- FLOATING TOGGLE -->
+    <button
+        id="sidebar-toggle"
+        class="sidebar-toggle"
+    >
+        ◀
+    </button>
+
+    <!-- MAIN CONTENT -->
+    <main class="content">
+
+        <h2 id="page-title">
+            Etymology Explorer
+        </h2>
+
+        <!-- WELCOME MESSAGE -->
+        <div id="welcome-message">
+
+            <h3>Welcome</h3>
+
+            <p>
+                Please select a word from the side panel or paste your own
+                origin and etymology text from  the Oxford English Dictionary below to visualise etymological relationships, developments and parallel cognates.
+            </p>
+
+
+        </div>
+
+        <!-- INPUT PANEL -->
+        <div class="input-panel">
+
+            <label>Summary</label>
+
+            <textarea
+                id="origin"
+                rows="2"
+                placeholder="Paste origin text..."
+            ></textarea>
+
+            <label>Etymology</label>
+
+            <textarea
+                id="etymology"
+                rows="4"
+                placeholder="Paste etymology text..."
+            ></textarea>
+
+            <button id="generate-btn">
+                Generate Graph
+            </button>
+
+        </div>
+
+        <!-- HIDDEN UNTIL GRAPH EXISTS -->
+        <div
+            id="graph-section"
+            style="display:none;"
+        >
+
+            <!-- VIEW TABS -->
+            <div class="tabs">
+
+                <button
+                    class="tab active"
+                    onclick="setView('combined', this)"
+                >
+                    Combined
+                </button>
+
+                <button
+                    class="tab"
+                    onclick="setView('language', this)"
+                >
+                    Language
+                </button>
+
+                <button
+                    class="tab"
+                    onclick="setView('word', this)"
+                >
+                    Word
+                </button>
+
+            </div>
+
+            <!-- MAIN TREE -->
+            <svg id="main-tree"></svg>
+
+            <h2 class="parallel-title">
+                Parallel Cognates
+            </h2>
+
+            <!-- PARALLEL TREE -->
+            <svg id="parallel-tree"></svg>
+
+        </div>
+
+    </main>
+
+</div>
+
+<script>
+const WORDS = {{ words|tojson }};
+</script>
+
+<script
+    src="{{ url_for('static', filename='script.js') }}"
+></script>
+
+</body>
+</html>

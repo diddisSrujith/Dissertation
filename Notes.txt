@@ -1,0 +1,622 @@
+The implementation process demonstrated that etymology extraction is considerably more complex than standard text extraction tasks due to the semi-structured and historically layered nature of dictionary etymologies. While regex approaches provided useful high-precision preprocessing, scalability limitations motivated the exploration of transformer and LLM-based methods. The challenges encountered throughout development significantly influenced the final hybrid methodology proposed in this dissertation.
+
+Key Problems Encountered and Solutions Implemented
+1. Hardcoded Language List
+Problem
+
+The initial system relied on a manually hardcoded list of languages:
+
+languages = [
+    "Old Frisian",
+    "Old Dutch",
+    ...
+]
+
+This caused several issues:
+
+poor scalability,
+inability to generalize to unseen etymologies,
+difficult maintenance,
+limited language coverage.
+Solution
+
+A separate language resource pipeline was introduced:
+
+languages.json
+generated from Wiktionary language data
+language_families.json
+manually curated supplementary ontology for:
+proto-languages,
+language families,
+OED-specific historical labels
+
+A dedicated loader module (language_loader.py) was added to:
+
+merge resources,
+deduplicate entries,
+prioritize family names,
+sort longest-first for regex safety.
+Outcome
+
+The parser became:
+
+scalable,
+reusable,
+ontology-driven,
+easier to maintain and extend.
+2. Missing Proto-Languages and Language Families
+Problem
+
+Wiktionary-exported language data did not include many important etymological categories such as:
+
+Indo-European,
+Germanic,
+Proto-Germanic,
+Proto-Indo-European.
+
+As a result:
+
+ancestor extraction failed,
+root hierarchy disappeared,
+main graph structure became incomplete.
+Solution
+
+A supplementary ontology file:
+
+language_families.json
+
+was introduced.
+
+This explicitly modeled:
+
+language families,
+proto-languages,
+historical scholarly categories.
+Outcome
+
+The system successfully restored:
+
+Indo-European → Germanic → descendant branches
+
+and improved linguistic correctness.
+
+3. Regex Overmatching and Substring Collisions
+Problem
+
+When scaling from a small hardcoded list to thousands of language names, regex alternation began causing collisions such as:
+
+German matching inside Germanic.
+
+This produced:
+
+incorrect relations,
+unstable graph topology,
+unexpected extraction behavior.
+Solution
+
+Language names were:
+
+sorted longest-first,
+matched using token boundaries:
+language_pattern = r"\b(?:{})\b".format(...)
+Outcome
+
+The parser became more stable and resistant to partial lexical matches.
+
+4. Root Detection Instability
+Problem
+
+The original parser only detected roots using:
+
+inherited from
+
+However, OED etymologies use multiple formulations:
+
+borrowed from,
+derived from,
+adopted from,
+inherited from.
+Solution
+
+Root extraction was generalized:
+
+(?:inherited|borrowed|derived|adopted)\s+from
+Outcome
+
+The system became compatible with a wider variety of OED etymology structures.
+
+5. Noise Tokens and Descriptor Interference
+Problem
+
+OED entries frequently contain:
+
+stylistic labels,
+historical descriptors,
+register markers.
+
+Examples:
+
+(poetic and rare)
+regional
+archaic
+obsolete
+
+These interfered with extraction logic.
+
+Solution
+
+A lightweight normalization layer was introduced to remove:
+
+parenthesized descriptors,
+inline stylistic markers,
+semantic noise tokens.
+Outcome
+
+Extraction accuracy improved while preserving linguistic content.
+
+6. Confusion Between Descendant Chains and Parallel Cognates
+Problem
+
+Initially, all relationships were treated similarly, even though:
+
+genealogical descent,
+cognate similarity
+
+represent different linguistic phenomena.
+
+This produced semantically incorrect graph structures.
+
+Solution
+
+The system was split into:
+
+regex_extractor.py
+genealogical/descendant relationships
+parallel_extractor.py
+parallel cognate relationships
+
+Separate JSON outputs were generated:
+
+data.json
+parallel.json
+Outcome
+
+The visualization now correctly distinguishes:
+
+inheritance trees,
+parallel cognate relationships.
+7. Regex Fragility with Large Ontologies
+Problem
+
+Scaling from a small language list to thousands of entries changed:
+
+regex matching order,
+extraction ordering,
+graph root selection behavior.
+
+The extraction pipeline became highly sensitive to unintended matches.
+
+Solution
+
+Instead of rewriting the parser:
+
+ontology management was separated,
+relation debugging was introduced,
+matching priority was controlled through sorting and ontology layering.
+Outcome
+
+The parser remained structurally stable while becoming scalable.
+
+8. Tree Construction Ambiguity
+Problem
+
+Graph roots were inferred using:
+
+all_parents - children_set
+
+Unexpected relations could change:
+
+root selection,
+overall tree topology.
+Solution
+
+Relation extraction was stabilized through:
+
+ontology cleanup,
+regex normalization,
+elimination of false-positive matches.
+Outcome
+
+The correct etymological hierarchy emerged consistently.
+
+9. Lack of Modular Architecture
+Problem
+
+Initially, all logic existed in a single script:
+
+extraction,
+ontology,
+graph construction,
+visualization.
+
+This reduced maintainability.
+
+Solution
+
+The project was modularized into:
+
+ontology layer,
+extraction layer,
+graph construction layer,
+visualization layer.
+Outcome
+
+The final system became significantly more extensible and research-oriented.
+
+Final System Architecture
+1.Data Layer
+languages.json
+language_families.json
+2.Ontology Loader
+language_loader.py
+3.Extraction Layer
+regex_extractor.py
+parallel_extractor.py
+4.Graph Construction
+tree_builder.py
+5.Visualization Layer
+D3.js interactive graph interface
+Overall Result
+
+The project evolved from:
+
+a small regex prototype
+
+into:
+
+a modular ontology-assisted computational etymology visualization system
+
+Final -
+
+Parser Extraction Flow
+
+Origin + Etymology Text
+           │
+           ▼
+1. Preprocessing
+           │
+           ▼
+2. Language Pattern Generation
+           │
+           ▼
+3. Root Language Detection
+           │
+           ▼
+4. Main Etymology Section Extraction
+           │
+           ▼
+5. Parenthetical Descendant Extraction
+           │
+           ▼
+6. Ancestor Form Extraction
+           │
+           ▼
+7. Graph Validation & Attachment
+           │
+           ▼
+8. Build Relations
+           │
+           ▼
+9. Generate JSON Tree
+
+
+Step 1 — Preprocessing
+
+The parser first combines the origin and etymology into a single text block.
+
+Origin: Germanic
+
+Etymology:
+Inherited from Proto-Germanic...
+
+↓
+
+The text is cleaned using preprocess_text().
+
+The preprocessing stage normalises
+
+whitespace
+punctuation
+line breaks
+formatting inconsistencies
+
+This provides a consistent input for pattern matching.
+
+Step 2 — Dynamic Language Pattern Generation
+
+Instead of hardcoding languages, the parser loads every language from
+
+languages.json
+
+Example
+
+Old English
+Middle English
+Proto-Germanic
+Latin
+Old Norse
+Old Frisian
+...
+
+These are converted into one large regular expression
+
+Old\ English|Middle\ English|
+Proto\-Germanic|Latin|...
+
+This allows the parser to recognise any supported language without manually updating regex rules.
+
+Step 3 — Root Language Detection
+
+The parser identifies the root language using several expressions.
+
+P1
+Inherited from <Language>
+Borrowed from <Language>
+Derived from <Language>
+Borrowing from <Language>
+Adopted from <Language>
+
+Example
+
+Inherited from Proto-Germanic
+
+↓
+
+Root = Proto-Germanic
+P2
+Common <Language>
+
+Example
+
+Common Germanic
+
+↓
+
+Root = Germanic
+P3
+same <Language> base
+
+Example
+
+same Proto-Indo-European base
+
+↓
+
+Root = Proto-Indo-European
+P4
+< Language
+
+Example
+
+< Proto-Indo-European
+
+↓
+
+Root = Proto-Indo-European
+Step 4 — Language Ancestor Detection
+
+The parser searches for
+
+P5
+same <Language> base as
+
+Example
+
+same Proto-Indo-European base as
+
+Produces
+
+Proto-Indo-European
+        │
+language_ancestor
+        │
+Proto-Germanic
+Step 5 — Main Etymology Isolation
+
+The parser removes sections that are not part of the primary ancestry.
+
+Parsing stops before phrases such as
+
+and further with
+
+outside Germanic
+
+semantic developments
+
+the word was also borrowed
+
+These are handled separately (parallel extractor or ignored).
+
+Step 6 — Parenthetical Descendant Extraction
+
+This is the main structural pattern.
+
+P6
+Language word
+(
+Language word
+Language word
+Language word
+)
+
+Example
+
+Old English stān
+(
+Middle English stone,
+Modern English stone
+)
+
+Produces
+
+Old English(stān)
+        │
+ descendant
+        │
+Middle English(stone)
+        │
+ descendant
+        │
+Modern English(stone)
+
+The descendants are connected sequentially.
+
+Step 7 — Language–Word Pair Extraction
+P7
+Language word
+
+Examples
+
+Old Norse steinn
+
+Old Frisian stēn
+
+Latin caput
+
+Proto-Germanic stainaz
+
+Each becomes
+
+Language (word)
+
+which forms a graph node.
+
+The same rule also captures multiple language entries.
+
+Example
+
+Old English stān,
+Old Frisian stēn,
+Old Saxon stēn
+
+↓
+
+Old English(stān)
+
+Old Frisian(stēn)
+
+Old Saxon(stēn)
+Step 8 — Form Cleaning
+
+Before creating nodes, lexical forms are cleaned.
+
+P8
+Latin caput, capitis, capita
+
+↓
+
+Latin(caput)
+
+Only the primary lexical form is retained.
+
+The parser also removes descriptors such as
+
+(obsolete)
+
+(regional)
+
+(rare)
+
+(plural)
+
+(feminine)
+Step 9 — Ancestor Extraction
+
+Every language–word pair outside descendant blocks becomes an ancestor of the root language.
+
+Example
+
+Proto-Germanic
+
+Old Frisian
+
+Old Saxon
+
+Produces
+
+Proto-Germanic
+      │
+ ancestor
+      │
+Old Frisian
+
+Proto-Germanic
+      │
+ ancestor
+      │
+Old Saxon
+Step 10 — Automatic Tree Completion
+
+Sometimes descendant chains are disconnected.
+
+Example
+
+Old English
+↓
+
+Middle English
+↓
+
+Modern English
+
+The parser automatically adds
+
+Proto-Germanic
+      │
+ancestor
+      │
+Old English
+
+This guarantees a connected graph.
+
+Step 11 — Duplicate Removal
+
+Every extracted edge passes through
+
+add_relation()
+
+Duplicate edges are ignored.
+
+Step 12 — Graph Construction
+
+The parser finally produces three relation types.
+
+ancestor
+
+descendant
+
+language_ancestor
+
+These are written to
+
+relations.json
+
+and passed to
+
+tree_builder.py
+
+which constructs the final JSON tree used for visualization.
+
+Summary of Implemented Patterns
+Pattern	Description
+P1	Inherited/Borrowed/Derived/Adopted from <Language>
+P2	Common <Language>
+P3	same <Language> base and < Language
+P4	same <Language> base as → language ancestor relation
+P5	Parenthetical descendant chains
+P6	Language–word pair extraction
+P7	Multiple language–word enumerations
+P8	Form cleaning and descriptor removal
+P9	Ancestor extraction from language–word pairs
+P10	Automatic attachment of disconnected descendant trees
+P11	Duplicate relation removal

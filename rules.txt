@@ -1,0 +1,56 @@
+To run the app: 
+python -m app
+go to: http://127.0.0.1:5000/
+
+gold_dataset.json - Manually annotated relations dataset for 102 words taken from OED. used for evaluation and training of transformer model
+etymologies.json - Manually collected origin and etymology of 102 words from OED. The words are categorized into simple, complex, very_complex based on the complexity of textual description
+
+
+To fetch langs: python -m extraction.fetch_languages. Creates languages.csv
+Convert fetched csv to json: python -m extraction.parse_languages. Creates languages.json
+
+preprocessor.py - Does preprocessing on etymology text before sending it to the extraction system
+language_loader.py - Loads the all the languages from languages.json and language_families.json at run time for language detection
+parser_extractor.py - It is the main extraction system for the main tree. When app.py is run, it triggers parser_extractor which creates relations.json with nodes to evaluate
+parallel_extractor.py - It is the extraction system for parallel cognates. When app.py is run, it creates parallel.json in tree structure
+tree_builder.py - Uses relations.json and converts it into a tree structure which can visualised. data.json is created which is used by the visualiser
+When app.py is run, it triggers both parser_extractor, parallel_extractor, and then tree_builder which ultimately creates relations.json, parallel.json and data.json. Data.json is used to create the main graph and parallel.json is used to create parallel cognate tree
+
+
+
+To evaluate regex system:
+generate_regex_predictions.py - Uses etymologies.json and loops throguh all the words (origin, etymology) and creates regex_predictions.json whih has main extracted relationships of all the words equivalent to relations.json for a single word.
+command - python -m extraction.generate_regex_predictions
+
+evaluate_regex.py - compares regex_predictions.json with gold_dataset.json and evaluates for different metrics for all the words. Creates regex_eval_report.json 
+command - python -m evaluation.evaluate_regex.py
+
+
+Transformer:
+prepare_flan_data.py - Uses etymologies.json and gold_dataset.json to create data for transformer model with input as etymology from etymologies.json and target as relations from gold_dataset.json. Creates train.json, test.json, valid.json.
+train_flan_t5.py - Trains the flanT5 transformer model on train.json and creates the model
+predict_flan_t5.py - Uses the model to predict relations for all the words in etymologies.json and saves the predictions in flan_predictions.json
+evaluate_flan.py - Compares predictions from flan_predictions.json and gold_dataset.json and saves the evaluation metrics to flan_eval_report.json
+
+
+python -m evaluation.evaluate_tree_completeness - Average tree completeness. For each word, correct gold relations divided by total gold relations, then averaged across words. Generates tree_completeness_report.json in results folder.
+
+
+UI:
+index.html, styles.css - defines user interface of the application
+script.js - Handles client-side logic to handle user interactions and requests to backend flask
+
+
+Techstack:
+UI - JavaScript, HTML, css
+Backend - Python, Flask
+ML - PyTorch, HuggingFace
+Tree rendering - d3.js
+
+
+- Flat reltions first -> Build tree
+- minimal relation pattern = parent, child, relation type
+- Language + word = node
+- Language is identified from language list
+- Process sentence by sentence
+- Detect languages first and then apply patterns

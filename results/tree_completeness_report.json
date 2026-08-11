@@ -1,0 +1,44 @@
+{
+  "metric": "Average Tree Completeness",
+  "definition": "For each word, correct gold relations divided by total gold relations, then averaged across words.",
+  "systems": {
+    "regex": {
+      "system": "Regex",
+      "total_words": 102,
+      "average_tree_completeness": 0.423,
+      "by_category": {
+        "simple": {
+          "words": 34,
+          "average_tree_completeness": 0.3872
+        },
+        "complex": {
+          "words": 49,
+          "average_tree_completeness": 0.4689
+        },
+        "very_complex": {
+          "words": 19,
+          "average_tree_completeness": 0.3689
+        }
+      }
+    },
+    "flan_t5": {
+      "system": "FLAN-T5",
+      "total_words": 102,
+      "average_tree_completeness": 0.409,
+      "by_category": {
+        "simple": {
+          "words": 34,
+          "average_tree_completeness": 0.4722
+        },
+        "complex": {
+          "words": 49,
+          "average_tree_completeness": 0.4054
+        },
+        "very_complex": {
+          "words": 19,
+          "average_tree_completeness": 0.3053
+        }
+      }
+    }
+  }
+}

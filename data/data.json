@@ -1,0 +1,34 @@
+{
+  "lemma": "Calf",
+  "name": "Germanic",
+  "children": [
+    {
+      "name": "Old Norse (kálfr)",
+      "relation": "ancestor"
+    },
+    {
+      "name": "German (kalbe)",
+      "relation": "ancestor"
+    },
+    {
+      "name": "Old High German (chalb)",
+      "children": [
+        {
+          "name": "Middle High German (kalp)",
+          "relation": "descendant"
+        }
+      ],
+      "relation": "ancestor"
+    },
+    {
+      "name": "Old Saxon (and)",
+      "children": [
+        {
+          "name": "Dutch (kalf)",
+          "relation": "descendant"
+        }
+      ],
+      "relation": "ancestor"
+    }
+  ]
+}

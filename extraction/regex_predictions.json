@@ -1,0 +1,6782 @@
+[
+  {
+    "word": "stone",
+    "predicted_relations": [
+      [
+        "Old English (stán)",
+        "West Frisian (stên)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (stên)",
+        "Dutch (steen)",
+        "descendant"
+      ],
+      [
+        "Old Norse (stein-n)",
+        "Danish (sten)",
+        "descendant"
+      ],
+      [
+        "Germanic (*staino-z)",
+        "Russian (stena)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (stein)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (stain-s)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (stêna)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Greek (στία)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Germanic (*staino-z)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (stên)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (stein-n)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (stán)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "bread",
+    "predicted_relations": [
+      [
+        "Old Frisian (brād)",
+        "Middle Dutch (broot)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (brōd)",
+        "Middle Low German (brōt)",
+        "descendant"
+      ],
+      [
+        "Old High German (brōt)",
+        "Middle High German (brōt)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (brauð)",
+        "Swedish (bröd)",
+        "descendant"
+      ],
+      [
+        "Old Danish (brøth)",
+        "Danish (brød)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (brōt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (bröþ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Crimean Gothic (broe)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (brøth)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (brōt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (brōd)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (brauð)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (brād)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "sheep",
+    "predicted_relations": [
+      [
+        "Old Frisian (skêp)",
+        "North Frisian (skêp)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (scâp)",
+        "Middle Low German (schâp)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (schaep)",
+        "Dutch (schaap)",
+        "descendant"
+      ],
+      [
+        "Old High German (scâf)",
+        "Middle High German (schâf)",
+        "descendant"
+      ],
+      [
+        "Germanic (*skǣpo-m)",
+        "Gothic (and)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (scéap)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (scâf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (scâp)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (skêp)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Germanic (*skǣpo-m)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (schaep)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "cow",
+    "predicted_relations": [
+      [
+        "Germanic (and)",
+        "Middle Dutch (koe)",
+        "descendant"
+      ],
+      [
+        "Old High German (chuo)",
+        "Middle High German (kuo)",
+        "descendant"
+      ],
+      [
+        "Icelandic (kýr)",
+        "Danish (ko)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (kú)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (có)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Sanskrit (gāús)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (βοῦς)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (bov-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Germanic (and)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (chuo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Icelandic (kýr)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "calf",
+    "predicted_relations": [
+      [
+        "Old Saxon (and)",
+        "Dutch (kalf)",
+        "descendant"
+      ],
+      [
+        "Old High German (chalb)",
+        "Middle High German (kalp)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Norse (kálfr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (kalbe)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (chalb)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (and)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "tooth",
+    "predicted_relations": [
+      [
+        "Old Frisian (tôth)",
+        "North Frisian (tôth)",
+        "descendant"
+      ],
+      [
+        "Old High German (zana)",
+        "Middle High German (zant)",
+        "descendant"
+      ],
+      [
+        "Old Norse (tǫnn)",
+        "Danish (tand)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (tóþ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (tand)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (tand)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Low German (tan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (tant)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (tand)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (tunþus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Indo-European (dent)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Sanskrit (dan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Greek (ὀδούς)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (dens)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Irish (dét)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (dant)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (dantìs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (tene)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Low German (täne)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (zene)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (zähne)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (tôth)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (tǫnn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (zana)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "foot",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (fōt)",
+        "Middle Dutch (voet)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (fōt)",
+        "Middle Low German (vōt)",
+        "descendant"
+      ],
+      [
+        "Old High German (fuoz)",
+        "Middle High German (vuoz)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (fótr)",
+        "Swedish (fot)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (fuot)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (fōter)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (fod)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (fōtus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ποδ-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (ped-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (pěšĭ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (pėda)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (‑fæt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (fōt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (fótr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (fuoz)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (fōt)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "hand",
+    "predicted_relations": [
+      [
+        "Old Frisian (hand)",
+        "West Frisian (hân)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (hant)",
+        "Middle Dutch (hant)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (hand)",
+        "Middle Low German (hant)",
+        "descendant"
+      ],
+      [
+        "Old High German (hant)",
+        "Middle High German (hant)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (hǫnd)",
+        "Danish (hånd)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Swedish (hand)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (hand)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (handus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Crimean Gothic (handa)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (hǫnd)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (hant)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (hant)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (hand)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (hand)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "finger",
+    "predicted_relations": [
+      [
+        "Old Frisian (finger)",
+        "Middle Low German (finger)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (fingar)",
+        "Dutch (vinger)",
+        "descendant"
+      ],
+      [
+        "Old High German (fingar)",
+        "Middle High German (vinger)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (fingr)",
+        "Swedish (finger)",
+        "descendant"
+      ],
+      [
+        "Old Danish (fingær)",
+        "Danish (finger)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (fingar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (finger)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (figgrs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (fingær)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (finger)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (fingar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (fingar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (fingr)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "nose",
+    "predicted_relations": [
+      [
+        "Old Frisian (nose)",
+        "West Frisian (noas)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (nōse)",
+        "Dutch (neus)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (nōse)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (nōse)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (nose)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "ear",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (āre)",
+        "Middle Dutch (ōre)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (ōra)",
+        "Middle Low German (ōre)",
+        "descendant"
+      ],
+      [
+        "Old High German (ōra)",
+        "Middle High German (ōre)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (eyra)",
+        "Swedish (öra)",
+        "descendant"
+      ],
+      [
+        "Old Danish (øre)",
+        "Danish (øre)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (ōra)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (öra)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (ausō)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (auris)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (ó)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (uxo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (ausis)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (øre)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (eyra)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (āre)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (ōra)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (ōra)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "eye",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (āge)",
+        "Middle Dutch (ōghe)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (ōga)",
+        "Middle Low German (ōge)",
+        "descendant"
+      ],
+      [
+        "Old High German (ouga)",
+        "Middle High German (ouge)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (auga)",
+        "Danish (øje)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (ouga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (öga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (øghæ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (augo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (auga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (ōga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (ouga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (āge)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "moon",
+    "predicted_relations": [
+      [
+        "Old Frisian (mōna)",
+        "Dutch (maan)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (māno)",
+        "Middle Low German (mān)",
+        "descendant"
+      ],
+      [
+        "Old High German (māno)",
+        "Middle High German (māne)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (máni)",
+        "Swedish (måne)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (māne)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (mane)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (måne)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (mena)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Crimean Gothic (mine)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (māno)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (māno)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (mōna)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (máni)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "sun",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (sunne)",
+        "West Frisian (sinne)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (sunna)",
+        "Middle Low German (sunne)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (sunna)",
+        "Middle Dutch (sonne)",
+        "descendant"
+      ],
+      [
+        "Old High German (sunna)",
+        "Middle High German (sunne)",
+        "descendant"
+      ],
+      [
+        "Old Welsh (houl)",
+        "Welsh (haul)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (sunna)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (sunno)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Crimean Gothic (sune)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (sól)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (sol)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (sol)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (sauil)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Sanskrit (svar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Avestan (huuarə̄)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ἥλιος)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (sōl)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Prussian (saule)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (saulė)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (súil)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (sunna)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (sunne)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Welsh (houl)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (sunna)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (sunna)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "star",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (stēra)",
+        "West Frisian (stjer)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (sterro)",
+        "Middle Dutch (sterre)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (sterro)",
+        "Middle Low German (stērne)",
+        "descendant"
+      ],
+      [
+        "Old High German (sterro)",
+        "Middle High German (sterre)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (stiärna)",
+        "Swedish (stjärna)",
+        "descendant"
+      ],
+      [
+        "Old Danish (stiærnæ)",
+        "Danish (stjerne)",
+        "descendant"
+      ],
+      [
+        "Armenian (astł)",
+        "Old Welsh (in)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (stjarna)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (stairno)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Sanskrit (stṛ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Avestan (star-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ἀστερ-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (sêr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (stella)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (stēra)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (sterro)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (sterro)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (stiærnæ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (stiärna)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (sterro)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Armenian (astł)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "arm",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Dutch (arm)",
+        "Middle Dutch (arm)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (arm)",
+        "Middle Low German (arm)",
+        "descendant"
+      ],
+      [
+        "Old High German (arm)",
+        "Middle High German (arm)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (armr)",
+        "Swedish (arm)",
+        "descendant"
+      ],
+      [
+        "Old Danish (arm)",
+        "Danish (arm)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (arm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (armber)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (arms)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ἁρμός)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (ramo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Sanskrit (īrma)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Avestan (arəma)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Prussian (irmo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (arm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (arm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (arm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (armr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (arm)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "elbow",
+    "predicted_relations": [
+      [
+        "Germanic (compound)",
+        "Middle High German (ellenboge)",
+        "descendant"
+      ],
+      [
+        "Old Norse (ǫlnboge)",
+        "Icelandic (ölnbogi)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (elinbogo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (ǫlnboge)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Germanic (compound)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "wing",
+    "predicted_relations": [
+      [
+        "Old Norse (vængir)",
+        "Danish (vinge)",
+        "descendant"
+      ],
+      [
+        "Old Norse",
+        "Old English (feþra)",
+        "ancestor"
+      ],
+      [
+        "Old Norse",
+        "Old Norse (vængir)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "tongue",
+    "predicted_relations": [
+      [
+        "Old English (and)",
+        "Low German (tunge)",
+        "descendant"
+      ],
+      [
+        "Old High German (zunga)",
+        "German (zunge)",
+        "descendant"
+      ],
+      [
+        "Old Norse (tunga)",
+        "Norwegian (tunge)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (tunga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (tuggô)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (lingua)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (zunga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (tunga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (and)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "back",
+    "predicted_relations": [
+      [
+        "Old Frisian (hnekka)",
+        "Dutch (nek)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (nac)",
+        "Middle High German (nac)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (hnakki)",
+        "Swedish (nacke)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle High German (genicke)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (Genick)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (hnacch)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (nakke)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (nakke)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (hnakki)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (nac)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (hnekka)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "beard",
+    "predicted_relations": [
+      [
+        "Middle Dutch (baert)",
+        "Dutch (baard)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (bard-)",
+        "Middle Low German (bārt)",
+        "descendant"
+      ],
+      [
+        "Old High German (bart)",
+        "Middle High German (bart)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (berd)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (bard-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (baert)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (bart)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "needle",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (nedle)",
+        "Middle Low German (nātel)",
+        "descendant"
+      ],
+      [
+        "Old High German (nādala)",
+        "Middle High German (nādele)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (neien)",
+        "Middle High German (næjen)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (nāðla)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (nál)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (nål)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (nål)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (nēþla)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (νεῖν)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (nyddu)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (sníid)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (neien)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (nedle)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (nādala)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "rope",
+    "predicted_relations": [
+      [
+        "Old Frisian (rāp)",
+        "West Frisian (reap)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (reep)",
+        "Dutch (reep)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (rēp)",
+        "Middle Low German (rēp)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (rēp)",
+        "German (Reep)",
+        "descendant"
+      ],
+      [
+        "Old High German (reif)",
+        "Middle High German (reif)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (reip)",
+        "Swedish (rep)",
+        "descendant"
+      ],
+      [
+        "Danish (rep)",
+        "Danish (reb)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (rep)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (‑raip)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (reif)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (rēp)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (rep)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (reep)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (reip)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (rāp)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "seed",
+    "predicted_relations": [
+      [
+        "Old Frisian (sēd)",
+        "West Frisian (sied)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (sād)",
+        "Middle Low German (sāt)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (saet)",
+        "Dutch (zaad)",
+        "descendant"
+      ],
+      [
+        "Old High German (sāt)",
+        "Middle High German (sāt)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (sáð)",
+        "Swedish (säd)",
+        "descendant"
+      ],
+      [
+        "Old Danish (sæth)",
+        "Danish (sæd)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Gothic (‑sēþs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (säþ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (satus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (had)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (saet)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (sēd)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (sād)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (sāt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (sæth)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (sáð)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "leaf",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (lāf)",
+        "Middle Dutch (loof)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (lōf)",
+        "Middle Low German (lōf)",
+        "descendant"
+      ],
+      [
+        "Old High German (loub)",
+        "Middle High German (loup)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (lauf)",
+        "Swedish (löv)",
+        "descendant"
+      ],
+      [
+        "Old Danish (løff)",
+        "Danish (løv)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (louf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (loof)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (löf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (laufs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (lāf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (løff)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (loub)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (lōf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (lauf)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "spoon",
+    "predicted_relations": [
+      [
+        "Old English (spón)",
+        "West Frisian (spoen)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (and)",
+        "Norwegian (spōn)",
+        "descendant"
+      ],
+      [
+        "Old Norse (spánn)",
+        "Swedish (spān)",
+        "descendant"
+      ],
+      [
+        "Old High German (and)",
+        "German (span)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (spaen)",
+        "Dutch (spaan)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (spôn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (and)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (spánn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (spaen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (and)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (spón)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "hook",
+    "predicted_relations": [
+      [
+        "Germanic",
+        "Old English (hóc)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (hoec)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (hoek)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (hôk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (haca)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (hake)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (haak)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (hâko)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (haken)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (haki)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (hake)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (hage)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "short",
+    "predicted_relations": [
+      [
+        "Germanic",
+        "Old High German (scurz)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (schurz)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (skortr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (skérdžiu)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (sceirtid)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "narrow",
+    "predicted_relations": [
+      [
+        "West Frisian (near)",
+        "Dutch (naar)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (nār)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (nǫr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (nare)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (nare)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (nǣr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (nar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (naro)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "West Frisian (near)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "grass",
+    "predicted_relations": [
+      [
+        "Old Saxon (gras)",
+        "Middle Low German (gras)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (gers-)",
+        "Middle Dutch (gras)",
+        "descendant"
+      ],
+      [
+        "Middle High German (gras)",
+        "German (Gras)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (gres)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (gras)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norwegian (gras)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (gras)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (gras)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (gers-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (gras)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "reed",
+    "predicted_relations": [
+      [
+        "Old Frisian (rēd)",
+        "West Frisian (rēd)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (rīd)",
+        "Middle Low German (rīd)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (rēd-)",
+        "Middle Dutch (rēd)",
+        "descendant"
+      ],
+      [
+        "Middle High German (rīt)",
+        "German (Ried)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (hriad)",
+        "Middle Low German (rēt)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (rēt)",
+        "German (Reet)",
+        "descendant"
+      ],
+      [
+        "Old High German (hriot)",
+        "Middle High German (riet)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (ríðr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norwegian (rīd)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (rīþ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (hriad)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (rēd-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (hriot)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (rēd)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (rīt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (rīd)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "clay",
+    "predicted_relations": [
+      [
+        "German (klei)",
+        "Gothic (type)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (clǽg)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (klai)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (clám)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (clǽman)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (klei)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "shell",
+    "predicted_relations": [
+      [
+        "Low German (schelle)",
+        "Dutch (schel)",
+        "descendant"
+      ],
+      [
+        "Old Norse (skel)",
+        "Norwegian (skjæl)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (sciell)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "West Frisian (skyl)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "North Frisian (skel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (schelle)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (skalja)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (skel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Low German (schelle)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "mother",
+    "predicted_relations": [
+      [
+        "Old Frisian (mōder)",
+        "West Frisian (moer)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (moeder)",
+        "Dutch (moeder)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (mōdar)",
+        "Middle Low German (mōder)",
+        "descendant"
+      ],
+      [
+        "Old High German (muoter)",
+        "Middle High German (muoter)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (móðir)",
+        "Swedish (moder)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (moþir)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (moder)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (mōder)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (moeder)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (muoter)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (mōdar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (móðir)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "folk",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (folk)",
+        "Middle Dutch (volk)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (folc)",
+        "Middle High German (volc)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (folk)",
+        "Icelandic (fólk)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (folk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (volk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (folc)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (folk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (folk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (folc)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (folk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (folk)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "house",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (hūs)",
+        "West Frisian (hûs)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (hūs)",
+        "Middle Dutch (huus)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (hūs)",
+        "Middle Low German (hūs)",
+        "descendant"
+      ],
+      [
+        "Old High German (hūs)",
+        "Middle High German (hūs)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (hús)",
+        "Swedish (hus)",
+        "descendant"
+      ],
+      [
+        "Old Danish (hūs)",
+        "Danish (hus)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (hūs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (hūs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Crimean Gothic (hus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (hūs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (hūs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (hús)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (hūs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (hūs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (hūs)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "throw",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (drāia)",
+        "Middle Low German (dreyen)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (thrāen)",
+        "Middle Dutch (draeyen)",
+        "descendant"
+      ],
+      [
+        "Old High German (drāen)",
+        "Middle High German (dræjen)",
+        "descendant"
+      ],
+      [
+        "Russian (teret′)",
+        "nasal (infix)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (thrāian)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (terere)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (tĭrǫšte)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (tirti)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Russian (teret′)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (drāia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (thrāen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (drāen)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "moss",
+    "predicted_relations": [
+      [
+        "West Frisian (mos)",
+        "Dutch (mos)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (mos)",
+        "Middle Low German (mos)",
+        "descendant"
+      ],
+      [
+        "Old High German (mos)",
+        "Middle High German (mos)",
+        "descendant"
+      ],
+      [
+        "Swedish (mos)",
+        "Old Icelandic (mosi)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (mosi)",
+        "Swedish (mossa)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (mos)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (mos)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norwegian (mose)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (mose)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "West Frisian (mos)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (mos)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (mos)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (mos)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "oak",
+    "predicted_relations": [
+      [
+        "Old Frisian (ēk)",
+        "Dutch (eik)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (ēc)",
+        "Middle Low German (eik)",
+        "descendant"
+      ],
+      [
+        "Old High German (eih)",
+        "Middle High German (eich)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (eik)",
+        "Swedish (ek)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (eike)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (ek)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (eg)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (eik)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (ēc)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (eih)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (ēk)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "elm",
+    "predicted_relations": [
+      [
+        "Old English (elm)",
+        "Middle High German (elme)",
+        "descendant"
+      ],
+      [
+        "Old Norse (álmr)",
+        "Swedish (alm)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (elm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "West Germanic (*elmo-z)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (olm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "English (form)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (álmr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (elm)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "hazel",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (hasel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (hāsel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (hazel)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "thorn",
+    "predicted_relations": [
+      [
+        "Old English (þorn)",
+        "Dutch (doorn)",
+        "descendant"
+      ],
+      [
+        "Old High German (dorn)",
+        "German (dorn)",
+        "descendant"
+      ],
+      [
+        "Old Norse (þorn)",
+        "Danish (torn)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Gothic (þaurnus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Indo-European (*trnus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (dorn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (þorn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (þorn)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "marsh",
+    "predicted_relations": [
+      [
+        "Old Frisian (mersk)",
+        "West Frisian (marsk)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (marsch)",
+        "Dutch (mars)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (marsch)",
+        "German (Marsch)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (mersk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (marsch)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (marsch)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "hen",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "West Frisian (hin)",
+        "Dutch (hen)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (henne)",
+        "Middle High German (henne)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (hano)",
+        "Middle Low German (hane)",
+        "descendant"
+      ],
+      [
+        "Old High German (hano)",
+        "Middle High German (hane)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (hani)",
+        "Swedish (hane)",
+        "descendant"
+      ],
+      [
+        "Old Danish (hanæ)",
+        "Danish (hane)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (hinne)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "West Germanic (suffixed)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (hāne)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (hani)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (hana)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (canere)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (canaid)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (canu)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "West Frisian (hin)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (hano)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (hano)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (hanæ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (henne)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (hani)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "straw",
+    "predicted_relations": [
+      [
+        "Old English (stréaw)",
+        "North Frisian (strâi)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (strô)",
+        "Dutch (stroo)",
+        "descendant"
+      ],
+      [
+        "Middle High German (strô)",
+        "German (stroh)",
+        "descendant"
+      ],
+      [
+        "Old Norse (strá)",
+        "Swedish (strå)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (stréaw)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (strô)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (strô)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (strá)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "ladder",
+    "predicted_relations": [
+      [
+        "Old Frisian (hleder)",
+        "Dutch (leer)",
+        "descendant"
+      ],
+      [
+        "Old High German (leitara)",
+        "German (leiter)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (hlǽder)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (lēdere)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Greek (κλῖμαξ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (hleder)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (leitara)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "bench",
+    "predicted_relations": [
+      [
+        "Old Frisian (bonk)",
+        "Dutch (bank)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (bank)",
+        "Middle Low German (bank)",
+        "descendant"
+      ],
+      [
+        "Old High German (banc)",
+        "Middle High German (banc)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (bekkr)",
+        "Swedish (bänk)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (banc)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (bänker)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (bænk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (bekkr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (banc)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (bonk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (bank)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "stool",
+    "predicted_relations": [
+      [
+        "Old Saxon (stôl)",
+        "Dutch (stoel)",
+        "descendant"
+      ],
+      [
+        "Middle High German (stuol)",
+        "German (stuhl)",
+        "descendant"
+      ],
+      [
+        "Old Norse (stóll)",
+        "Danish (stol)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (stól)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (stōl-s)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (stolŭ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (stôl)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (stóll)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (stuol)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "kettle",
+    "predicted_relations": [
+      [
+        "Old Saxon (ketel)",
+        "Middle Dutch (and)",
+        "descendant"
+      ],
+      [
+        "Old High German (keȥȥil)",
+        "Middle High German (keȥȥel)",
+        "descendant"
+      ],
+      [
+        "Latin (catillus)",
+        "Latin (catīnus)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (cętel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (ketill)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (katils)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (ketel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (keȥȥil)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (catillus)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "floor",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (flōr)",
+        "West Frisian (flier)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (flōr)",
+        "Middle Dutch (vloer)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (vlōr)",
+        "Middle High German (vluor)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (fluor)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (Flur)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (flór)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (llawr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (flōr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (vlōr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (flōr)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "roof",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (hrōf)",
+        "West Frisian (roef)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (roof)",
+        "Dutch (roef)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (rōf)",
+        "German (regional)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (hróf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (cró)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "English (has)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (roof)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (rōf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (hrōf)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "wall",
+    "predicted_relations": [
+      [
+        "Dutch (wal)",
+        "German (wall)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (wall)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (wal)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (wal)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (wal)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (vallum)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (val)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (wal)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "path",
+    "predicted_relations": [
+      [
+        "Old Frisian (path)",
+        "West Frisian (paad)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (pad)",
+        "Dutch (pad)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (pāt)",
+        "Middle High German (phat)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (phad)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (pāt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (pad)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (path)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "bridge",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (bregge)",
+        "West Frisian (brêge)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (brugga)",
+        "Middle Dutch (brugge)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (bruggia)",
+        "Middle Low German (brugge)",
+        "descendant"
+      ],
+      [
+        "Old High German (brugga)",
+        "Middle High German (brucke)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (bryggia)",
+        "Swedish (brygga)",
+        "descendant"
+      ],
+      [
+        "Old Danish (brygge)",
+        "Danish (brygge)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (bryggja)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Russian (brĭvĭ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Czech (břev)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (brĭvŭno)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (bryggia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (bregge)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (brugga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (brugga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (bruggia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (brygge)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "stream",
+    "predicted_relations": [
+      [
+        "Old Frisian (strâm)",
+        "West Frisian (stream)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (strôm)",
+        "Dutch (stroom)",
+        "descendant"
+      ],
+      [
+        "Middle High German (stroum)",
+        "German (strom)",
+        "descendant"
+      ],
+      [
+        "Old Norse (straum-r)",
+        "Swedish (ström)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle High German (stroum)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (straum-r)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (strôm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (strâm)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "apple",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (appel)",
+        "Dutch (appel)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (appul)",
+        "Middle Low German (appel)",
+        "descendant"
+      ],
+      [
+        "Old High German (apful)",
+        "Middle High German (apfel)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (epli)",
+        "Swedish (äpple)",
+        "descendant"
+      ],
+      [
+        "Irish (abal)",
+        "Irish (úll)",
+        "descendant"
+      ],
+      [
+        "Welsh (afall)",
+        "Latin (context)",
+        "descendant"
+      ],
+      [
+        "Russian (jabolon′)",
+        "Russian (jablonja)",
+        "descendant"
+      ],
+      [
+        "Old Polish (yabłon)",
+        "Polish (jabłoń)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (appel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (æple)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (æplæ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Crimean Gothic (apel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gaulish (avallo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (‑abulus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Prussian (woble)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (obelis)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latvian (ābele)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (jablanĭ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (abal)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (epli)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Polish (yabłon)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Russian (jabolon′)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (afall)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (apful)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (appul)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (appel)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "pot",
+    "predicted_relations": [
+      [
+        "Old Frisian (pot)",
+        "Dutch (pot)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (pot)",
+        "German (regional)",
+        "descendant"
+      ],
+      [
+        "German (regional)",
+        "German (Pott)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (pottr)",
+        "Icelandic (pottur)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (pott)",
+        "Swedish (pott)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (pot)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (pot)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (pot)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (pot)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (pottr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (pott)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "dish",
+    "predicted_relations": [
+      [
+        "Old English (disc)",
+        "Middle High German (and)",
+        "descendant"
+      ],
+      [
+        "Latin",
+        "Old High German (tisc)",
+        "ancestor"
+      ],
+      [
+        "Latin",
+        "Old Saxon (disk)",
+        "ancestor"
+      ],
+      [
+        "Latin",
+        "Old Norse (diskr)",
+        "ancestor"
+      ],
+      [
+        "Latin",
+        "West Germanic (*disk)",
+        "ancestor"
+      ],
+      [
+        "Latin",
+        "Italian (desco)",
+        "ancestor"
+      ],
+      [
+        "Latin",
+        "French (deis)",
+        "ancestor"
+      ],
+      [
+        "Latin",
+        "Old English (disc)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "key",
+    "predicted_relations": [
+      [
+        "Old Frisian (kāi)",
+        "West Frisian (kaai)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (kāi)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "saddle",
+    "predicted_relations": [
+      [
+        "Middle Dutch (sādel)",
+        "Dutch (zadel)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (sādel)",
+        "Middle High German (satel)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (sǫðull)",
+        "Swedish (sadel)",
+        "descendant"
+      ],
+      [
+        "Old Danish (sathæl)",
+        "Danish (sadel)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (satul)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (saþul)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (sādel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (sādel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (sathæl)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (sǫðull)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "boot",
+    "predicted_relations": [
+      [
+        "Old Frisian (bôte)",
+        "Middle Dutch (and)",
+        "descendant"
+      ],
+      [
+        "Old High German (buoȥa)",
+        "Middle High German (buoȥe)",
+        "descendant"
+      ],
+      [
+        "Old Norse (bót)",
+        "Swedish (bot)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (bót)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (bôta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (bôta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (bót)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (bôte)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (buoȥa)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "arrow",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Icelandic (ǫr)",
+        "Icelandic (ör)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Swedish (arf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (arhwazna)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (ǫr)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "rain",
+    "predicted_relations": [
+      [
+        "Old Frisian (rein)",
+        "West Frisian (rein)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (rēgan)",
+        "Middle Dutch (rēgen)",
+        "descendant"
+      ],
+      [
+        "Old High German (regan)",
+        "Middle High German (regen)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (regn)",
+        "Swedish (regn)",
+        "descendant"
+      ],
+      [
+        "Old Danish (reghen)",
+        "Danish (regn)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (regan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (räghn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (rign)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Crimean Gothic (reghen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (reghen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (rein)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (rēgan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (regan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (regn)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "ice",
+    "predicted_relations": [
+      [
+        "Middle Dutch (īs)",
+        "Dutch (ijs)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (īs)",
+        "Middle Low German (īs)",
+        "descendant"
+      ],
+      [
+        "Old High German (īs)",
+        "Middle High German (īs)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (īs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (íss)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (is)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (is)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (īs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (īs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (īs)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "frost",
+    "predicted_relations": [
+      [
+        "Old Frisian (frost)",
+        "Middle Dutch (vorst)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (frost)",
+        "Middle Low German (vrost)",
+        "descendant"
+      ],
+      [
+        "Old High German (frost)",
+        "Middle High German (frost)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (frost)",
+        "Swedish (frost)",
+        "descendant"
+      ],
+      [
+        "Old Danish (frost)",
+        "Danish (frost)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (uorst)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (frost)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (frost)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (frost)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (frost)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (frost)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (frost)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "mist",
+    "predicted_relations": [
+      [
+        "Middle Dutch (mest)",
+        "Dutch (mist)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (mist)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (mist)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Icelandic (mistr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norwegian (mist)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (mist)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (mist)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ὀμίχλη)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (mĭgla)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Russian (mgla)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (migla)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Albanian (mjegull)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (mest)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "storm",
+    "predicted_relations": [
+      [
+        "Old Norse (storm-r)",
+        "Danish (storm)",
+        "descendant"
+      ],
+      [
+        "Germanic (*sturmo-z)",
+        "Romance (*stormo)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (storm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (sturm)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (storm-r)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Germanic (*sturmo-z)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "sand",
+    "predicted_relations": [
+      [
+        "Old English (sand)",
+        "Dutch (zand)",
+        "descendant"
+      ],
+      [
+        "Old High German (sant)",
+        "Middle High German (sant)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (sond-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (sand)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (sant)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (sand)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (sand-r)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Greek (ἄμαθος)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (sant)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (sand)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "cliff",
+    "predicted_relations": [
+      [
+        "Middle Dutch (klif)",
+        "Dutch (klif)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (klif)",
+        "Middle Low German (klif)",
+        "descendant"
+      ],
+      [
+        "Old High German (kleb)",
+        "German (Kliff)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (klif)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (kleb)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (klif)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (klif)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "well",
+    "predicted_relations": [
+      [
+        "Old Frisian (wel)",
+        "West Frisian (wel)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (wel)",
+        "Dutch (wel)",
+        "descendant"
+      ],
+      [
+        "Old High German (wela)",
+        "Middle High German (wole)",
+        "descendant"
+      ],
+      [
+        "Old Frisian (wal)",
+        "Middle Low German (wal)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (wel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (vel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norn (vel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norwegian (vel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (väl)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (vel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (wala)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (wala)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (val)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (waila)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (wel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (wela)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (wel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (wal)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "laugh",
+    "predicted_relations": [
+      [
+        "Old Frisian (hlakkia)",
+        "West Frisian (laitsje)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (leia)",
+        "Swedish (le)",
+        "descendant"
+      ],
+      [
+        "Old Danish (le)",
+        "Danish (le)",
+        "descendant"
+      ],
+      [
+        "Greek (κλώσσειν)",
+        "Russian (klokotat′)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (lachen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (*hlahhian)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (lachen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (*hlahhen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (lachen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (hlæja)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (hlahjan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Crimean Gothic (lachen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (klokotati)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Russian (kloktat′)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (hlakkia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (le)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Greek (κλώσσειν)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (leia)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "weep",
+    "predicted_relations": [
+      [
+        "Old High German (wuofan)",
+        "Middle High German (wuofen)",
+        "descendant"
+      ],
+      [
+        "Old High German (wuoffen)",
+        "Middle High German (wüefen)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "West Germanic (assimilated)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (wôpian)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (œ́pa)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (wōpjan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (wôp)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (wuof)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (óp)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (wuoffen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (wuofan)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "sing",
+    "predicted_relations": [
+      [
+        "Old English (singan)",
+        "West Frisian (sjonge)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (singen)",
+        "Dutch (zingen)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (and)",
+        "German (singen)",
+        "descendant"
+      ],
+      [
+        "Old Norse (syngva)",
+        "Icelandic (and)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (sionga)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (siggwan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (and)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (singan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (singen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (syngva)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "sit",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (sitta)",
+        "West Frisian (sitte)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (sitten)",
+        "Middle Dutch (sitten)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (sittian)",
+        "Middle Low German (sitten)",
+        "descendant"
+      ],
+      [
+        "Old High German (sizzen)",
+        "German (sitzen)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (sitja)",
+        "Swedish (sitta)",
+        "descendant"
+      ],
+      [
+        "Old Danish (sitia)",
+        "Danish (sidde)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (sitia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (sitan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ἕζεσθαι)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (sedēre)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (saidid)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (sěděti)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (sėdėti)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Armenian (nstim)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (sitten)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (sizzen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (sitta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (sittian)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (sitia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (sitja)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "lie",
+    "predicted_relations": [
+      [
+        "Germanic (strong)",
+        "Low German (liggen)",
+        "descendant"
+      ],
+      [
+        "Old High German (and)",
+        "German (liegen)",
+        "descendant"
+      ],
+      [
+        "Old Norse (liggia)",
+        "Swedish (ligga)",
+        "descendant"
+      ],
+      [
+        "Germanic (*ligjan)",
+        "Gothic (ligan)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (liggian)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Greek (λέχος)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (lectus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (ležati)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Germanic (*ligjan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (liggia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (and)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Germanic (strong)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "yew",
+    "predicted_relations": [
+      [
+        "Old Dutch (īwa)",
+        "Middle Dutch (īwe)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (īve)",
+        "Middle High German (īwe)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (ýr)",
+        "Icelandic (ýr)",
+        "descendant"
+      ],
+      [
+        "Swedish (regional)",
+        "Old Swedish (ydhe)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (ydhe)",
+        "Swedish (ide)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (īwa)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (ūva)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (eó)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (yw)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Russian (iva)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Polish (iwa)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Bulgarian (iva)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (ieva)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (īwa)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (ýr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (īve)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (regional)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "anvil",
+    "predicted_relations": [
+      [
+        "Old Saxon (anafelti)",
+        "German (regional)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (aenvilte)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (anafalz)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (anafelti)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "gate",
+    "predicted_relations": [
+      [
+        "Old English (geat)",
+        "Low German (and)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (gat)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (gat)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (gat)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old English (geat)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "tell",
+    "predicted_relations": [
+      [
+        "Old Dutch (tellen)",
+        "Middle Dutch (tellen)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (tellian)",
+        "Middle Low German (tellen)",
+        "descendant"
+      ],
+      [
+        "Old High German (zellen)",
+        "Middle High German (zeln)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (telja)",
+        "Swedish (tälja)",
+        "descendant"
+      ],
+      [
+        "Old Danish (tælie)",
+        "Danish (tælle)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (tella)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (tälia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (tælie)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (telja)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (zellen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (tellen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (tellian)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "stall",
+    "predicted_relations": [
+      [
+        "Old Frisian (stal)",
+        "West Frisian (stâl)",
+        "descendant"
+      ],
+      [
+        "Germanic (stallo-)",
+        "French (étal)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Dutch (stal)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (stal)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (stal)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (stall-r)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old French (estal)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "English (senses)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Germanic (stallo-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (stal)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "pillow",
+    "predicted_relations": [
+      [
+        "Middle Dutch (poluwe)",
+        "Dutch (peluw)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (puli)",
+        "Middle Low German (pȫle)",
+        "descendant"
+      ],
+      [
+        "Old High German (pfuluwīn)",
+        "Middle High German (pfülwe)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Latin (pulvīnus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (pfuluwīn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (puli)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (poluwe)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "spindle",
+    "predicted_relations": [
+      [
+        "Old High German (spinela)",
+        "Middle High German (spinele)",
+        "descendant"
+      ],
+      [
+        "Middle Dutch (and)",
+        "North Frisian (spandel)",
+        "descendant"
+      ],
+      [
+        "Swedish (spindel)",
+        "Swedish (spinnil)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (spinel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (spindel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (spindel)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (and)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (spinela)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "sea",
+    "predicted_relations": [
+      [
+        "Old Norse (sǽ-r)",
+        "Swedish (sjö)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old English (sǽ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (sêo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (sê)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (zee)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (sêo)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (sê)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (saiw-s)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Norse (sǽ-r)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "fire",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (fiūr)",
+        "West Frisian (fjoer)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (fuir)",
+        "Middle Dutch (vier)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (fiur)",
+        "Middle Low German (vǖr)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (fiur)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (fýr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (fiūr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (fuir)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (fiur)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "smart",
+    "predicted_relations": [
+      [
+        "Middle Dutch (smerten)",
+        "Dutch (smarten)",
+        "descendant"
+      ],
+      [
+        "Old High German (smerzan)",
+        "Middle High German (smerzen)",
+        "descendant"
+      ],
+      [
+        "Middle High German (smerzen)",
+        "German (schmerzen)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "West Frisian (smerte)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (smerten)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (smerte)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (smerzan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (smerten)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "great",
+    "predicted_relations": [
+      [
+        "Old Frisian (grāt)",
+        "Middle Dutch (groot)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (grōt)",
+        "Middle Low German (grōt)",
+        "descendant"
+      ],
+      [
+        "Old High German (grōz)",
+        "Middle High German (grōz)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (groot)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (grautr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (grōz)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (grāt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (grōt)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "one",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (ān)",
+        "Dutch (een)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (ēn)",
+        "Middle Low German (ēn)",
+        "descendant"
+      ],
+      [
+        "Old High German (ein)",
+        "Middle High German (ein)",
+        "descendant"
+      ],
+      [
+        "Irish (oen)",
+        "Irish (aon)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (ein)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (einn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (en)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (een)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (ains)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gaulish (oinos)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (un)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (inŭ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Prussian (ains)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (vienas)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (οἴνη)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Greek (οἰνός)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (is)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (ein)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (ēn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (oen)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (ān)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "only",
+    "predicted_relations": [
+      [
+        "Middle Dutch (eenlijc)",
+        "Dutch (eenlijk)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (ēnlīk)",
+        "Middle Low German (einlīk)",
+        "descendant"
+      ],
+      [
+        "Old High German (einlīh)",
+        "Middle High German (einlich)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (ēnlig)",
+        "Swedish (enlig)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Norwegian (einleg)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norwegian (einlig)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (enlig)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (ēnlig)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (eenlijc)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (ēnlīk)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (einlīh)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "good",
+    "predicted_relations": [
+      [
+        "Germanic",
+        "Old Frisian (gōdia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Dutch (goeden)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (gotten)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (justificare)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (güeten)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (güten)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (gœða)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (göþa)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (göda)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (gøtæ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (gøde)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "town",
+    "predicted_relations": [
+      [
+        "Old Dutch (tūn)",
+        "Middle Dutch (tuun)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (tūn)",
+        "Middle High German (zūn)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (tún)",
+        "Swedish (tun)",
+        "descendant"
+      ],
+      [
+        "Danish (tun)",
+        "Danish (with)",
+        "descendant"
+      ],
+      [
+        "Old Breton (din)",
+        "Breton (din)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (tūn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (‑tūn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (zūn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Faroese (tún)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norwegian (tun)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (tun)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (dún)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (din)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (tūn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (tūn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (tun)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Breton (din)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (tún)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "money",
+    "predicted_relations": [
+      [
+        "Anglo-Norman (monai)",
+        "French (monnaie)",
+        "descendant"
+      ],
+      [
+        "French",
+        "Middle French (monoie)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Latin (monēta)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Anglo-Norman (monai)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "acre",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (ekker)",
+        "Old Dutch (only)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (only)",
+        "Dutch (akker)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (akkar)",
+        "Middle Low German (acker)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (aker)",
+        "Swedish (åker)",
+        "descendant"
+      ],
+      [
+        "Old Danish (akær)",
+        "Danish (ager)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (acker)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (ackar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (akr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (akrs)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ἀγρός)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Sanskrit (ajra)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (aker)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (akkar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (akær)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (ekker)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "right",
+    "predicted_relations": [
+      [
+        "Old Frisian (riucht)",
+        "West Frisian (rjocht)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (reht)",
+        "Middle Dutch (recht)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (reht)",
+        "Middle Low German (recht)",
+        "descendant"
+      ],
+      [
+        "Old High German (reht)",
+        "Middle High German (reht)",
+        "descendant"
+      ],
+      [
+        "Old Danish (ræt)",
+        "Danish (ret)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (rätter)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (reht)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (reht)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (ræt)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (riucht)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (reht)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "daughter",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (dochter)",
+        "West Frisian (dochter)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (dohtar)",
+        "Middle Low German (dochter)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (dohter)",
+        "Middle Dutch (dochter)",
+        "descendant"
+      ],
+      [
+        "Old High German (tohter)",
+        "Middle High German (tohter)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (dottir)",
+        "Swedish (dotter)",
+        "descendant"
+      ],
+      [
+        "Old Danish (dotær)",
+        "Danish (datter)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (dóttir)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norn (daute)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (dauhtar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (tohter)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (dohtar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (dochter)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (dottir)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (dotær)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (dohter)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "full",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (ful)",
+        "West Frisian (fol)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (fol)",
+        "Middle Dutch (vol)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (ful)",
+        "Middle Low German (vul)",
+        "descendant"
+      ],
+      [
+        "Old High German (fol)",
+        "Middle High German (vol)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (fullr)",
+        "Swedish (full)",
+        "descendant"
+      ],
+      [
+        "Old Danish (fuldær)",
+        "Danish (fuld)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (fulder)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (fulls)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Avestan (pərəna-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (plĭnŭ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Prussian (pilnan)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (pilnas)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (plēnus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (lán)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (llawn)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (fuldær)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (ful)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (fol)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (fol)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (ful)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (fullr)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "few",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (fē)",
+        "Swedish (få)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (fahu)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (fō)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (fár)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (far)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (faa)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (fawai)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (parvus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (paucus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (παῖς)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle English (partly)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (fē)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "fart",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old High German (ferzan)",
+        "Middle High German (verzen)",
+        "descendant"
+      ],
+      [
+        "Middle High German (verzen)",
+        "German (furzen)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (verten)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle Low German (verten)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (freta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Swedish (fjärta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (fjærte)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (πέρδεσθαι)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Russian (perdet′)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (persti)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Albanian (pjerdh)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (pēdere)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (ferzan)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "quick",
+    "predicted_relations": [
+      [
+        "Old Frisian (quik)",
+        "West Frisian (kwik)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (quic)",
+        "Middle Dutch (quic)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (quik)",
+        "Middle Low German (quik-)",
+        "descendant"
+      ],
+      [
+        "Middle Low German (quik-)",
+        "German (regional)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (kvikr)",
+        "Swedish (qvick)",
+        "descendant"
+      ],
+      [
+        "Old Danish (qwik)",
+        "Danish (kvik)",
+        "descendant"
+      ],
+      [
+        "Gothic (qius)",
+        "Irish (beó)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old High German (quec)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (quec)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (keck)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (quick)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (qvikker)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Sanskrit (jīva)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (vīvus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (gývas)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (živŭ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (béu)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (byw)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (βίος)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (kvikr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (quik)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (quic)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (qwik)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (quik)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (qius)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "father",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (fader)",
+        "West Frisian (faar)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (fadar)",
+        "Middle Dutch (vāder)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (fadar)",
+        "Middle Low German (vāder)",
+        "descendant"
+      ],
+      [
+        "Old High German (fater)",
+        "Middle High German (vater)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (faþir)",
+        "Swedish (fader)",
+        "descendant"
+      ],
+      [
+        "Old Danish (fathær)",
+        "Danish (fader)",
+        "descendant"
+      ],
+      [
+        "ancient Greek (πατήρ)",
+        "Old French (paire)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (faðir)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Norn (fa)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (fadar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Avestan (ptar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (pater)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Oscan (patir)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gaulish (ater-)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (athair)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Armenian (hayr)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Tocharian A (pācar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Tocharian B (pācer)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Indo-European (relationship)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (πατήρ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (faþir)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (fader)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (fater)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (fathær)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (fadar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (fadar)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "city",
+    "predicted_relations": [
+      [
+        "Anglo-Norman (citee)",
+        "French (cité)",
+        "descendant"
+      ],
+      [
+        "French",
+        "Middle French (cité)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Latin (cīvitāt-)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Old Occitan (ciptat)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Catalan (ciutat)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Spanish (ciudad)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Portuguese (cidade)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Italian (città)",
+        "ancestor"
+      ],
+      [
+        "French",
+        "Anglo-Norman (citee)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "over",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (over)",
+        "Dutch (over)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (oƀar)",
+        "Middle Low German (ȫver)",
+        "descendant"
+      ],
+      [
+        "Old High German (ubar)",
+        "Middle High German (über)",
+        "descendant"
+      ],
+      [
+        "Old Swedish (övir)",
+        "Swedish (över)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Middle Dutch (ōver)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (yfer)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (over)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (ufar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ὑπέρ)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (super)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (ὑπό)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (uf)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (sub)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (over)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (oƀar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (ubar)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (övir)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "heart",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Frisian (herte)",
+        "West Frisian (hert)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (herta)",
+        "Middle Dutch (herte)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (herta)",
+        "Middle Low German (herte)",
+        "descendant"
+      ],
+      [
+        "Old High German (herza)",
+        "Middle High German (herze)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (hjarta)",
+        "Swedish (hjärta)",
+        "descendant"
+      ],
+      [
+        "Old Danish (hiarta)",
+        "Danish (hjerte)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Swedish (hiärta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gothic (hairto)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "ancient Greek (καρδία)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Irish (cride)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Welsh (craidd)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Church Slavonic (srĭdĭtse)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Russian (serdce)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Czech (srdce)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (šerdis)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Danish (hiarta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (herta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (herta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (herza)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (hjarta)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (herte)",
+        "ancestor"
+      ]
+    ]
+  },
+  {
+    "word": "alder",
+    "predicted_relations": [
+      [
+        "Indo-European",
+        "Germanic",
+        "language_ancestor"
+      ],
+      [
+        "Old Saxon (elira)",
+        "Middle Low German (elre)",
+        "descendant"
+      ],
+      [
+        "Old Icelandic (elri)",
+        "Swedish (al)",
+        "descendant"
+      ],
+      [
+        "Old Dutch (elis)",
+        "Middle Dutch (else)",
+        "descendant"
+      ],
+      [
+        "Old Saxon (els)",
+        "Middle Low German (else)",
+        "descendant"
+      ],
+      [
+        "Slovak (jelša)",
+        "Gaulish (tribal)",
+        "descendant"
+      ],
+      [
+        "Germanic",
+        "Old Frisian (erl)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old High German (elira)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Middle High German (elre)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (Erle)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Danish (el)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Swedish (al)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "German (Else)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Polish (olcha)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Gaulish (alisia)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Latin (alnus)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Prussian (alskande)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Lithuanian (alksnis)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Icelandic (elri)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Dutch (elis)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (elira)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Old Saxon (els)",
+        "ancestor"
+      ],
+      [
+        "Germanic",
+        "Slovak (jelša)",
+        "ancestor"
+      ]
+    ]
+  }
+]

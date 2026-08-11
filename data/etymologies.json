@@ -1,0 +1,712 @@
+[
+    {
+        "id": 1,
+        "word": "stone",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic: Old English stán strong masculine corresponds to Old Frisian stên, (West Frisian stên, stien, North Frisian stîn, stîæn), Old Saxon stên (Low German, Dutch steen), Old High German (Middle High German, modern German) stein, Old Norse stein-n (Swedish, Danish sten), Gothic stain-s < Germanic *staino-z, cognate with Old Church Slavonic stêna (Russian stena) wall, and Greek στία, στῖον pebble."
+    },
+    {   "id": 2,
+        "word": "bread",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian brād, brēd, brōd, Old Dutch brōt (Middle Dutch broot, brōd-, Dutch brood), Old Saxon brōd (Middle Low German brōt, German regional (Low German) Brood), Old High German brōt (Middle High German brōt, German Brot), Old Icelandic brauð, Old Swedish bröþ (Swedish bröd), Old Danish brøth (Danish brød), and apparently also Crimean Gothic broe, all in the sense ‘bread’; further etymology uncertain and disputed, perhaps < an ablaut variant (o-grade) of the Germanic base of brew v., with suffixation (compare ‑ed suffix1), or alternatively perhaps < an ablaut variant (o-grade) of the Germanic base (probably meaning ‘to break’) of Old English brēotan (see brit v.2)."
+    },
+    {   "id": 3,
+        "word": "sheep",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English (West Saxon) scéap, earlier scǽp, (Anglian) scép strong n. = Old Frisian skêp, schêp (North Frisian skêp, skêap, sjip, sjapp, West Frisian skiep, East Frisian schâip), Old Saxon scâp (Middle Low German schâp, Low German schaap), Middle Dutch schaep (Dutch schaap), Old High German scâf (Middle High German schâf, German schaf) < Germanic *skǣpo-m (wanting in Gothic and Scandinavian)."
+    },
+    {   "id": 4,
+        "word": "cow",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "A Common Germanic and Common Indo-germanic word: Old English cú, cognate with Old Frisian kú, Old Saxon có (Middle Dutch koe, Dutch koe, Low German ko), Old High German chuo (Middle High German kuo, German Kuh), Icelandic kýr accusative and dative kú (< kû-z, Swedish, Danish ko, koe) < Old Germanic *kōu-z, *kô-z, feminine < Aryan gwōus, accusative gwōm, whence Sanskrit gāús, gām, gav-, go-, ancient Greek βοῦς, βοϝ-, βο-, classical Latin bov-, bōs ox; the word being of both genders outside Germanic."
+    },
+    {   "id": 5,
+        "word": "calf",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic: Old West Saxon cealf (plural cealfru), Old Mercian cælf (plural calferu, calfur), Old Northumbrian cælf, cęlf, correspond to Old Saxon and Middle Dutch calf (Dutch kalf), Old High German chalb (Middle High German kalp, kalb-, modern German kalb) < Old Germanic *kalboz, ‑iz neuter. In later West Saxon the word was often masculine (plural cealfas) = Old Norse kálfr; in Gothic only the feminine kalbô (δάμαλις) = Old High German chalba, modern German kalbe female calf, is recorded."
+    },
+    {   "id": 6,
+        "word": "tooth",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English tóþ, tóð (< *tanþ), Common Germanic and Common Indo-European; Old Frisian tôth, tond, (North Frisian tôth, East Frisian tond); Old Saxon tand (Middle Low German tand, tan, Low German tan; Middle Dutch tant (d), Dutch tand; Old High German zana, zan (Middle High German zant, zan, German zahn); Old Norse tǫnn (< tanþuz; Swedish, Danish tand, Norwegian tonn); beside Gothic tunþus; < Old Germanic *tanþ- and *tunþ- < Indo-European dent, dont, dnt, whence Sanskrit dan, danta, Greek ὀδούς (ὀδόντος), Latin dens (dents), Old Irish dét (*dent), Welsh dant, Lithuanian dantìs. The termination agrees with that of present participles, whence Pott conjectured an original *ed-ont-, present participle of ed- to eat; i.e. ‘an eater’. Old English tóþ was originally a masculine consonant stem, with dative singular téþ (< tóþi), plural nominative téþ (< *tóþiz), genitive tóþa, dative tóþum (in early Middle English toþen). A rare plural tóþas after masculine ‑oz stems also occurs. An umlaut plural is seen also in Old Frisian têth, Middle Low German tene, Low German täne, Old High German zeni, Middle High German zene, German zähne. In use the plural is much more frequent than the singular, and in some dialects the latter is sometimes assimilated to it as ‘a teeth’."
+    },
+    {   "id": 7,
+        "word": "foot",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian fōt, Old Dutch fuot (Middle Dutch voet, Dutch voet), Old Saxon fōt, fuot (Middle Low German vōt, vuot), Old High German fuoz (Middle High German vuoz, German Fuß), Old Icelandic fótr, Old Swedish fōter (Swedish fot), Danish fod, Gothic fōtus < the same Indo-European base as (with various ablaut grades) Sanskrit pad, pāda, both ‘foot’, ancient Greek ποδ-, πούς (Doric πός) foot, πεζός on foot, classical Latin ped-, pēs foot, Old Church Slavonic pěšĭ on foot, Lithuanian pėda foot, footmark, Old Icelandic fet step, foot as a measure, feta to make one's way, Old English ‑fæt (in sīþfæt way, journey), Old High German fezzan to go; compare fet v., and also (< suffixed forms of the same base) fetter n. and (probably) fetlock n."
+    },
+    {   "id": 8,
+        "word": "hand",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian hand, hond (West Frisian hân), Old Dutch hant (Middle Dutch hant, Dutch hand), Old Saxon hand (Middle Low German hant), Old High German hant (Middle High German hant, German Hand), Old Icelandic hǫnd, Old Swedish, Swedish hand, Old Danish hand (Danish hånd), Gothic handus, Crimean Gothic handa; further etymology uncertain and disputed."
+    },
+    {   "id": 9,
+        "word": "finger",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian finger, Old Saxon fingar (Middle Low German finger), Old Dutch fingar (Middle Dutch, Dutch vinger), Old High German fingar (Middle High German vinger, German Finger), Old Icelandic fingr, Old Swedish finger (Swedish finger), Old Danish fingær (Danish finger), Gothic figgrs, further etymology uncertain, perhaps < a suffixed form of the Indo-European base of five adj. (although this presents semantic difficulties with regard to the function of the suffix), or perhaps < a suffixed form of the Indo-European base of fang v.1 (although this presents phonological difficulties)."
+    },
+    {   "id": 10,
+        "word": "nose",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian nose (West Frisian noas), Middle Dutch nōse, nuese, neuse (Dutch neus), Middle Low German (East Friesland) nōse, noese, probably < an ablaut variant (zero-grade) of the Germanic base of nase n. Compare nese n."
+    },
+    {   "id": 11,
+        "word": "ear",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian āre, ār, Old Dutch ōra (Middle Dutch ōre, Dutch oor), Old Saxon ōra, ōre (Middle Low German ōre, ōr), Old High German ōra (Middle High German ōre, ōr, German Ohr), Old Icelandic eyra, Old Swedish öra (Swedish öra), Old Danish øre (Danish øre), Gothic ausō < the same Indo-European base as (with various different stem-formations) ancient Greek οὖς, classical Latin auris, Early Irish ó (rare and literary), Old Church Slavonic uxo, Lithuanian ausis, all in the sense ‘ear’."
+    },
+    {   "id": 12,
+        "word": "eye",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian āge, āch, Old Dutch ouga (Middle Dutch ōghe, ōge, Dutch oog), Old Saxon ōga (Middle Low German ōge), Old High German ouga (Middle High German ouge, German Auge), Old Icelandic auga, Swedish öga, Old Danish øghæ (Danish øje), Gothic augo < a Germanic base apparently ultimately < the same Indo-European base as classical Latin oculus eye (see oculus n.)."
+    },
+    {   "id": 13,
+        "word": "moon",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian mōna, Middle Dutch māne, maen, mayn, mōne (Dutch maan), Old Saxon māno (Middle Low German mān, māne, mōne, mānt), Old High German māno (Middle High German māne, mān, mōne, mōn, mānde, mānt, mōnde, mōnt, German Mond), Old Icelandic máni, Old Swedish mane (Swedish måne), Danish måne, Gothic mena, Crimean Gothic mine < a variant of the Germanic base of month n.1 (with loss of final consonant and remodelling as n-stem)."
+    },
+    {   "id": 14,
+        "word": "sun",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian sunne, sonne, senne (West Frisian sinne, North Frisian sen), Old Saxon sunna (Middle Low German sunne), Old Dutch sunna (Middle Dutch sonne, Dutch zon), Old High German sunna (Middle High German sunne, sonne, German Sonne), Old Icelandic sunna (in poetry), Gothic sunno, Crimean Gothic sune, < a variant (see note) of the same Indo-European base as early Scandinavian (runic: Norway) solu (dative singular), Old Icelandic sól, Old Swedish, Swedish sol, Old Danish, Danish sol, Gothic sauil, and also Sanskrit svar (genitive sūraḥ), Old Avestan huuarə̄ (see note), ancient Greek ἥλιος, ἠέλιος (Doric ἀέλιος, Cretan ἀβέλιος; compare helio- comb. form), classical Latin sōl (compare sol n.1), Old Welsh houl (Welsh haul), Old Prussian saule, Lithuanian saulė, all in sense ‘sun’, and Early Irish, Irish súil eye."
+    },
+    {   "id": 15,
+        "word": "star",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian stēra (West Frisian stjer, North Frisian steer, stiar), Old Dutch sterro, sterno (Middle Dutch sterre, sterne, Dutch ster), Old Saxon sterro (Middle Low German stērne, regional (Westphalia) sterre), Old High German sterro, sterno (Middle High German sterre, sterne, German Stern), Old Icelandic stjarna (compare starn n.), Old Swedish stiärna (Swedish stjärna), Old Danish stiærnæ (Danish stjerne), Gothic stairno < a variant (with nasal extension) of the same Indo-European base as Hittite haster, Sanskrit stṛ, Avestan star-, ancient Greek ἀστερ-, ἀστήρ, ἄστρον (compare aster n.), Armenian astł, Welsh sêr (collective, in Old Welsh in singulative form sserenn), and also classical Latin stella (compare stella n. and stellar adj.)."
+    },
+    {
+        "id": 16,
+        "word": "arm",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian arm, (usually) erm (West Frisian earm), Old Dutch arm (Middle Dutch arm, Dutch arm), Old Saxon arm (Middle Low German arm), Old High German arm (Middle High German arm, German Arm), Old Icelandic armr, Old Swedish armber, ärm (Swedish arm), Old Danish arm (Danish arm), Gothic arms < the same Indo-European base as classical Latin armus shoulder, arma (neuter plural) arms n., ancient Greek ἁρμός joint, and (with metathesis) Old Church Slavonic ramo shoulder, further cognate with Sanskrit īrma arm, foreleg of an animal, Avestan arəma, Old Prussian irmo arm (which are < the zero grade of the Indo-European base)."
+    },
+    {
+        "id": 17,
+        "word": "elbow",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "A Common Germanic compound: Old English ęlnboga = Dutch elleboog, Old High German elinbogo (Middle High German ellenboge, modern German ellen-, ellbogen), Old Norse ǫlnboge (Icelandic ölnbogi, ölbogi, Danish albue) < Germanic *alino-bogon-, < *alinâ arm (see ell n.1) + *bogon- bending = bow n.1"
+    },
+    {
+        "id": 18,
+        "word": "wing",
+        "category": "simple",
+        "origin":"A borrowing from early Scandinavian.",
+        "etymology": "Middle English, first in plural forms wenge, wengen, wenges, < Old Norse vængir, accusative vængi, plural of vængr (Swedish, Danish vinge) wing of a bird, aisle, etc.; replacing Old English feþra wings, plural of feþer, and fiþere (see feather n. I.3)."
+    },
+    {
+        "id": 19,
+        "word": "tongue",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English and Middle English tunge weak feminine = Old Frisian tunge, Old Saxon tunga (Middle Low German, Low German tunge, Middle Dutch tonghe, Dutch tong), Old High German zunga, zunka (Middle High German, German zunge), Old Norse tunga (Danish, Norwegian tunge, Swedish tunga), Gothic tuggô < Old Germanic *tungôn-, held to be cognate with Latin lingua tongue, for older *dingua (as lacrima < dacrima: see tear n.1)."
+    },
+    {
+        "id": 20,
+        "word": "back",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian hnekka, Middle Dutch nec, necke (Dutch nek); compare also the collective formation Middle High German genicke, German Genick, and (apparently from a variant of the same Germanic base) Middle Dutch nac, nack, nacke, Old High German hnacch, hnach, nach (Middle High German nac, nacke, German Nacken), Old Icelandic hnakki, Old Swedish nakke (Swedish nacke), Danish nakke; further etymology uncertain, perhaps compare Early Irish cnocc hill, elevation (see knock n.2), Tocharian A kñuk neck, nape (the connection of which with the Germanic forms is semantically attractive, but presents phonological problems)."
+    },
+    {
+        "id": 21,
+        "word": "beard",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian berd (East Frisian bārd), Middle Dutch baert (Dutch baard), Old Saxon bard- (in unbardhaht beardless; Middle Low German bārt), Old High German bart, part (Middle High German bart, German Bart), and further with Old Church Slavonic brada (with metathesis), Lithuanian barzda, Old Prussian bordus, classical Latin barba (with assimilation of consonants); further etymology uncertain, perhaps < a suffixed form of the presumed Indo-European base of bere n.1, or perhaps a loanword from a non-Indo-European substrate language. Compare also forms in the Germanic languages of the second element of halberd n., probably ultimately < the same Germanic base; compare also the apparently related Germanic base of brerd n.Old English bærd, from Old Norse bárd (Swedish, Danish bård), from Germanic *berthaz (compare Gothic bairt, Old High German bairt, Middle High German bære, German Bart)."
+    },
+    {
+        "id": 22,
+        "word": "needle",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian nedle, Old Saxon nāðla (Middle Low German nātel, nattel, (rare) nādel), Old High German nādala, nādel, nādila (Middle High German nādele, nādel, German Nadel), Old Icelandic nál (with loss of medial þ), Swedish nål, Danish nål, Gothic nēþla < a suffixed (instrumental: see below) form of the same Germanic base as Middle Dutch naeyen (Dutch naaien), Middle Low German neien, neyen, neigen, etc., Old High German nāen, nājan, nāwan, etc. (Middle High German næjen, næn, nægen, etc., German nähen), all in sense ‘to sew’, probably ultimately < the same Indo-European base as classical Latin nēre, ancient Greek νεῖν, νήθειν to spin, Middle Welsh, Welsh nyddu to spin, twist, and with initial s-, Early Irish sníid spins, twists (also snímaid, Irish sníomh)."
+    },
+    {
+        "id": 23,
+        "word": "rope",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian rāp (in silrāp kind of rope; West Frisian reap, East Frisian (Saterland) rōp), Middle Dutch reep (Dutch reep), Old Saxon rēp (Middle Low German rēp, reep, reip, German regional (Low German) Reep; > German Reep nautical rope (18th cent.)), Old High German reif (Middle High German reif, German Reif, now only in senses ‘circlet, hoop’), Old Icelandic reip, Old Swedish rep (Swedish rep), early modern Danish rep (Danish reb), Gothic ‑raip (in skaudaraip shoe-thong), further etymology uncertain and disputed: perhaps < an ablaut variant (o-grade) of the same Germanic base as reap v.1 (compare ripple n.1), perhaps with original sense ‘long narrow strip that has been cut’. Compare Finnish raippa whip (compare raipata to whip), probably borrowed at an early stage < the Germanic base of this word."
+    },
+    {
+        "id": 24,
+        "word": "seed",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian sēd (West Frisian sied), Old Saxon sād (Middle Low German sāt), Middle Dutch saet, saed, sāde (Dutch zaad), Old High German sāt (Middle High German sāt, German Saat), Gothic ‑sēþs (in the compound manasēþs humankind, lit. ‘seed of people’), Old Icelandic sáð, sæði, Old Swedish säþ (Swedish säd), Old Danish sæth (Danish sæd), and further (with different ablaut grade) with classical Latin satus, Welsh had < the Indo-European base of sow v.1 + a dental suffix forming nouns."
+    },
+    {
+        "id": 25,
+        "word": "leaf",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian lāf leaf, foliage, Old Dutch louf leaf (Middle Dutch loof leaf, foliage, Dutch loof foliage, also (now regional: southern) leaf), Old Saxon lōf foliage (Middle Low German lōf foliage), Old High German loub leaf, foliage (Middle High German loup leaf, foliage, German Laub foliage), Old Icelandic lauf leaf, foliage, Old Swedish löf leaf (Swedish löv leaf, foliage), Old Danish løff (Danish løv foliage), Gothic laufs leaf, lauf foliage, further etymology uncertain, perhaps < the same Indo-European base as Old Russian lupiti (Russian lupit′) to peel, strip off, undress, rob, Polish łupić to peel, strip off, rob, Serbian and Croatian lupiti to peel, strip off, strike, knock, Lithuanian lupti to peel, skin, laupyti to tear off, and perhaps further related to the Indo-European base of Early Irish luib plant, Old English lybb (medicinal) drug, poison, charm (see lib n.1) and perhaps also classical Latin liber inner bark of a tree, bast, book (see library n.1)."
+    },
+    {
+        "id": 26,
+        "word": "spoon",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic: Old English spón, = Old Frisian spôn (West Frisian spoen, spoan, East Frisian spōn, North Frisian spōn, spön, spūn), Middle Low German and Low German spôn, Old Norse and Icelandic spónn (Norwegian spōn); the original stem *spǣnu- is differently (but normally) represented in Old Norse spánn (Middle Swedish spān, Swedish spån, Danish spaan), Old High German and Middle High German spân (German span), Middle Dutch spaen (Dutch spaan). In Old English, as in most of the Continental languages, the word has only the general sense of ‘chip’; sense 2 is specifically Scandinavian (Norwegian and Icelandic), but Middle Low German spôn had also the meaning of ‘wooden spatula’ as in botter-spôn."
+    },
+    {
+        "id": 27,
+        "word": "hook",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English hóc = Middle Low German hôk, Middle Dutch hoec, Dutch hoek, Middle Low German hôk corner, angle, nook, point of land. In ablaut relation with Old English haca ‘pessulus’, a (? hooked) bolt, and apparently also with Middle Dutch hake (? hâke), Dutch haak, Old High German hâko, hâkko (also hâggo), modern German haken, Old Norse haki, Swedish hake, Danish hage hook: see hake n.2"
+    },
+    {
+        "id": 28,
+        "word": "short",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old High German scurz (adjective) short (with the vowel showing influence from the unrelated kurz short (see curt adj.1); Middle High German schurz (noun) apron: see shirt n. and the nouns cited at that entry), Old Icelandic skortr (noun) shortage, lack < an extended form (dental stem) of the Indo-European base of shear v.; compare (with a suffix causing i-mutation) the Germanic base of shirt n. and (with different ablaut: e-grade) the Germanic base of Middle High German scherze piece cut off from a tree (German regional (Bavaria) Scherz (end) piece cut off from a loaf of bread). The same Indo-European base is perhaps ultimately shown by Old Prussian scurdis pickaxe, Lithuanian skérdžiu, skérdėti to be scratched, and Early Irish sceirtid scrapes off, although the precise relationship of these with the various Germanic bases is unclear."
+    },
+    {
+        "id": 29,
+        "word": "narrow",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old High German nār (adjective) narrow, Old Norse nǫr (adjective) narrow, Middle Dutch nare (adjective) narrow, Dutch nare (adjective) narrow, Old English nǣr (adjective) narrow. The word is also related to the Proto-Germanic *nāraz (adjective) narrow.Cognate with West Frisian near narrow, Middle Dutch nar, nare, naer narrow, dreary, dismal (Dutch naar disagreeable, unpleasant, sad, dismal), Old Saxon naro, naru narrow, depressing; further etymology uncertain. Compare nare adj."
+    },
+    {
+        "id": 30,
+        "word": "grass",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian gres, (also) gers (West Frisian gers), Old Saxon gras (Middle Low German gras), Old Dutch gers- (in place names with reference to grassland; Middle Dutch gras, gars, gers, Dutch gras, regional also gars, gers), Old High German, Middle High German gras (German Gras), Old Icelandic gras, Norwegian (Nynorsk) gras, Old Swedish, Swedish regional (Dalarna) gras, Gothic gras < an extended form of an ablaut variant of the same Germanic base as grow v."
+    },
+    {
+        "id": 31,
+        "word": "reed",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian rēd (West Frisian rēd), Old Saxon rīd (Middle Low German rīd), Old Dutch rēd- (in place names with reference to reed beds; Middle Dutch rēd, rēde, Dutch ried), Old High German, Middle High German rīt (German Ried), Old Icelandic ríðr, Norwegian (Nynorsk) rīd, Old Swedish, Swedish regional (Dalarna) rīd, Gothic rīþ < an extended form of an ablaut variant of the same Germanic base as grow v.Cognate with Middle Dutch ried, riet (Dutch riet), Old Saxon hriad, hriod (Middle Low German rēt, rīt, riet, German regional (Low German) reet, reit; > German Reet reed used as thatching material), Old High German hriot, riod, riot (Middle High German riet, German Ried, (now only in sense II.11a) Riet), further etymology uncertain. Compare Old Frisian reid (< Middle Low German; West Frisian reid)."
+    },
+    {
+        "id": 32,
+        "word": "clay",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic: Old English clǽg (ǽ umlaut of á) corresponds to Middle Dutch cleie (feminine), Middle Low German, Low German, Dutch, and German klei, Old Frisian klai, modern Frisian klay, klaey, pointing to an Old Germanic *klaijâ- strong feminine (Gothic type *kladdja, Old Norse *klegg, whence Danish klæg, kleg), < verbal root kli- (klei-, klai-,) to stick, cleave, with suffix ‑ja. From same root came *klai-moz, in Old English clám, cloam n., earth, potter's clay, with its verb *klaimjan, in Old English clǽman; see cleam v., clam v.1 Outside Germanic, Greek has γλοι-, γλι-, in γλοιός, γλίνη sticky matter, γλία glue, Latin glūs, glūten (ū for earlier oi), Old Church Slavonic glina clay, glénŭ mud."
+    },
+    {
+        "id": 33,
+        "word": "shell",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English sciell, scill, Anglian scell (feminine) = West Frisian skyl peel, rind, eggshell, North Frisian skel, skal seashell, (Middle) Low German schelle, schille pod, rind, fish-scale, eggshell, Middle Dutch schelle, schille shell, pod, bark, rind, plural scurf (Dutch schel, schil), Old Norse skel seashell (Norwegian skjæl), Gothic skalja tile < Germanic *skaljō, < *skal-, for other derivatives of which see scale n.1, scale n.2, shale n.1 Compare skell n.1, < Old Norse."
+    },
+    {
+        "id": 34,
+        "word": "mother",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian mōder (West Frisian moer), Middle Dutch moeder, mōder (Dutch moeder), Old Saxon mōdar, muoder (Middle Low German mōder, moeder), Old High German muoter, muotir (Middle High German muoter, German Mutter), Old Icelandic móðir, Old Swedish moþir (Swedish moder), Danish moder, and further with Sanskrit mātṛ, mātar-, Avestan mātar-, ancient Greek (Doric) ματέρ-, μάτηρ, (Attic and Ionic) μητέρ-, μήτηρ, classical Latin māter (> Old French madre, medre, Old French, Middle French mere, French mère, Old Occitan, Occitan maire, Catalan mare, Italian madre, Spanish madre, Portuguese mãe), Gaulish mātīr, Early Irish māthir, Tocharian A mācar, Tocharian B mācer, Old Church Slavonic mati (genitive matere), Russian mat′, Latvian māte, Albanian motër (in sense ‘sister’), probably originally a derivative (with suffixation) of a nursery word of the ma type (see mama n.1)."
+    },
+    {
+        "id": 35,
+        "word": "folk",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian folk, Old Dutch folk (Middle Dutch volk, Dutch volk), Old Saxon folc, Middle Low German volk, Old High German folc (Middle High German volc, German Volk), Langobardic fulc- (in fulcfree; compare folk-free adj.), Old Icelandic folk (Icelandic fólk), Old Swedish, Swedish folk, Old Danish, Danish folk; further etymology uncertain, perhaps a derivative (with velar suffix) < the same Indo-European base as full adj. and fele adv., although a borrowing from a non-Indo-European language has also been suggested."
+    },
+    {
+        "id": 36,
+        "word": "house",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian hūs (West Frisian hûs), Old Dutch hūs (Middle Dutch huus, huis, huys, Dutch huis), Old Saxon hūs (Middle Low German hūs), Old High German hūs (Middle High German hūs, German Haus), Old Icelandic hús, Old Swedish hūs (Swedish hus), Old Danish hūs (Danish hus), all in a similar range of senses in early use, and Gothic hūs (only in the compound gudhūs ‘temple’, lit. ‘house of a god or of God’; the usual Gothic word is razn: see earn n.1), Crimean Gothic hus; further etymology uncertain and disputed: perhaps ultimately < the same Indo-European base as hide n.1 and hide v.1, with original sense ‘covering’; probably also related to the Germanic bases of hose n., hoard n.1 The Germanic word was also borrowed into Slavonic (compare Old Church Slavonic xyzŭ, xyza little house, hut, pyx, and (with varying suffixation) Russian xižina, Czech chýše, Bulgarian xiža, all in sense ‘hut’)."
+    },
+    {
+        "id": 37,
+        "word": "throw",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian drāia, Old Saxon thrāian (Middle Low German dreyen), Old Dutch thrāen (only as past participle gethrāt; Middle Dutch draeyen, Dutch draaien), Old High German drāen (Middle High German dræjen, German drehen), all weak verbs with senses relating to twisting or turning, probably < the same Indo-European base as ancient Greek τείρειν to rub, to bore, to distress (compare Teredo n.), classical Latin terere to rub (compare trite adj.), Old Church Slavonic tĭrǫšte (participle) rubbing, Russian teret′ to rub, to grind, Lithuanian tirti to investigate, (with nasal infix) trinti to rub, although the exact nature of the relationship between the Germanic forms and those in other languages is uncertain."
+    },
+    {
+        "id": 38,
+        "word": "moss",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with West Frisian mos, Middle Dutch mos (Dutch mos), Old Saxon mos moss (Middle Low German mos moss, lichen), Old High German mos moss, bog, swamp (Middle High German mos moss, lichen, bog, swamp, German Moos moss), Swedish mos moss, Danish mos moss (compare also declensional variants Old Icelandic mosi bog, moss, Norwegian mose moss, lichen, (regional) bog, Swedish mossa moss, mosse bog, Danish mose bog), and further with Old Russian m″x″ moss, mould (Russian mox moss), Lithuanian mūsas (usually as plural mūsai) mould, and (with an additional velar suffix) classical Latin muscus moss. For forms from a different ablaut grade of the same base see mese n.1, mire n.1"
+    },
+    {
+        "id": 39,
+        "word": "oak",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian ēk, Middle Dutch eike, eke (Dutch eik, †eek), Old Saxon ēc (Middle Low German eik, ēk, eike, ēke), Old High German eih, eihha (Middle High German eich, eiche, German Eiche), Old Icelandic eik, Old Swedish ek (Swedish ek), Danish eg; further etymology uncertain: probably related to Hellenistic Greek αἰγίλωψ kind of oak tree (see aegilops n.), κράταιγος thorn, and perhaps also to classical Latin aesculus mountain oak."
+    },
+    {
+        "id": 40,
+        "word": "elm",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English elm, strong masculine = Old High German elm strong masculine (whence the derivatives Middle High German elme, ilme, ilmene weak feminine) < West Germanic *elmo-z; the same word with difference of ablaut appears as Old Norse álmr (Swedish alm, Danish alm, ælm) etymologically = Latin ulmus. The modern German ulme, Dutch olm, and the English form ulm(e, are due to the influence of the Latin word."
+    },
+    {
+        "id": 41,
+        "word": "hazel",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Dutch hasel (only in place names; Middle Dutch hāsel, Dutch hazel (only in compounds and derivatives: the usual word for the tree is now hazelaar (compare ‑er suffix1)), Old Saxon hasal (in hasalwurt hazelwort n.; Middle Low German hassel, hāsel), Old High German hasal (Middle High German hasel, German Hasel), Icelandic hasl, Old Norwegian hasl (Norwegian hassel), Old Swedish hasl (Swedish hassel), Danish hassel, (regional) hæssel < the same Indo-European base as classical Latin corulus, corylus (compare corylet n.), Early Irish coll, Old Welsh, Welsh coll."
+    },
+    {
+        "id": 42,
+        "word": "thorn",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English þorn = Old Saxon thorn (Dutch doorn), Old High German dorn (Middle High German, German dorn), Old Norse þorn (Swedish, Danish torn), Gothic þaurnus, < Old Germanic *þurn-uz; < Indo-European *trnus: compare Old Church Slavonic trŭnŭ thorn."
+    },
+    {
+        "id": 43,
+        "word": "marsh",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian mersk marsh (West Frisian marsk, mask, mersk), Middle Dutch marsch, meersch, mersch (Dutch mars marsh, meers water meadow, pasture), Middle Low German marsch, masch, mersch water meadow, fertile alluvial land on a river or coast (> German Marsch, Danish marsk) < the Germanic base of mere n.1 + the Germanic base of ‑ish suffix1. Compare marish n. & adj.1 and merse n."
+    },
+    {
+        "id": 44,
+        "word": "hen",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with West Frisian hin, Middle Dutch hinne, henne (Dutch hen), Middle Low German henne, hinne, hēne, Old High German henna (Middle High German henne, German Henne) female of the domestic chicken < a West Germanic suffixed form (with suffix causing i-mutation) of the Germanic base of Old English hana, Middle Dutch hāne, haen (Dutch haan), Old Saxon hano (Middle Low German hane), Old High German hano (Middle High German hane, han, German Hahn), Old Icelandic hani, Old Swedish hani (Swedish hane), Old Danish hanæ (Danish hane), Gothic hana, all in the sense ‘cockerel, rooster’, ultimately < the same Indo-European base as ancient Greek καναχή sound, noise (compare ἠϊκανός cockerel, literally ‘early singer’), classical Latin canere to sing, early Irish canaid sings, Old Welsh, Welsh canu to sing (see chant v.)."
+    },
+    {
+        "id": 45,
+        "word": "straw",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic (not found in Gothic): Old English stréaw neuter = Old Frisian strê (North Frisian strâi, stre, West Frisian strie), Old Saxon, Middle Low German, Middle Dutch strô (Dutch stroo) neuter, Old High German, Middle High German strô neuter, genitive strawes, strôwes (modern German stroh masculine), Old Norse strá neuter (Swedish strå, Danish straa) < Germanic *strawo-, < root *strau-: streu-: see strew v."
+    },
+    {
+        "id": 46,
+        "word": "ladder",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English hlǽd(d)er strong feminine, corresponding to Old Frisian hleder, hladder-, Middle Dutch lēdere (Dutch leer, also ladder from Frisian), Old High German leitara (Middle High German, modern German leiter) < Old Germanic *hlaidrjâ, < Germanic root *hlĭ-: hlai- (whence lean v.1) < Aryan *klῑ-: compare Greek κλῖμαξ ladder."
+    },
+    {
+        "id": 47,
+        "word": "bench",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian bonk, bank, benk, Middle Dutch banc (Dutch bank), Old Saxon bank (Middle Low German bank), Old High German banc (Middle High German banc, German Bank), Old Icelandic bekkr, Old Swedish bänker (Swedish bänk), Old Danish, Danish bænk < the same Germanic base as bank n.1; further etymology unknown."
+    },
+    {
+        "id": 48,
+        "word": "stool",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic; Old English stól (masculine) = Old Saxon stôl (Dutch stoel), Old High German, Middle High German stuol (modern German stuhl), Old Norse stóll (Swedish, Danish stol), Gothic stōl-s throne < Germanic *stōlo-z, probably < root *stō-: sta- to stand v. Compare Old Church Slavonic stolŭ throne, seat."
+    },
+    {
+        "id": 49,
+        "word": "kettle",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic: Old English cętel (West Saxon ciętel) = Old Saxon ketel (in combination ketel-kôp; Middle Dutch and Dutch ketel) Old High German keȥȥil (Middle High German keȥȥel, German kessel), Old Norse ketill, Gothic katils, probably < Latin catillus, diminutive of catīnus a food-vessel (or < Latin catīnus itself)."
+    },
+    {
+        "id": 50,
+        "word": "floor",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian flōr floor (East Frisian (Saterland) floor; compare also West Frisian flier, reflecting a by-form with i-mutation), Old Dutch flōr (only in place names; Middle Dutch vloer ground, floor, foundation, building, storey, threshing floor, Dutch vloer), Middle Low German vlōr corridor, hard floor or floor foundation, agricultural land, Old High German fluor field, agricultural land, seed (Middle High German vluor field, agricultural land, seed, ground, German Flur (feminine) field, agricultural land, (masculine, after Low German) entrance hall, corridor), Old Icelandic flór, flórr floor of a cow-stall, Swedish regional flor stone floor, aisle between rows of cow-stalls < the same Indo-European base as Early Irish lár, Welsh llawr floor, ground, probably showing a differently extended form (with ‑r‑ extension) of the same Indo-European base as classical Latin plānus flat (see plain adj.2), palma palm of the hand (see palm n.2), and field n.1"
+    },
+    {
+        "id": 51,
+        "word": "roof",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian hrōf (West Frisian roef), Middle Dutch roof, rouf, roef, also in sense ‘ship's cabin’ (Dutch roef ship's cabin, coffin lid), Middle Low German rōf (German regional (Low German) rōf), all in sense ‘external upper covering of a house or other building’, Old Icelandic hróf boat-shed < the same Indo-European base as Old Church Slavonic stropŭ, in same sense (which shows palatalization of the initial Indo-European voiceless velar plosive and development of epenthetic ‑t‑), and perhaps also Irish cró crew n.2, although the latter poses semantic problems. Among the Germanic languages, only English has retained the word in a general sense, while the other languages (at least in modern use) use cognates of thack n."
+    },
+    {
+        "id": 52,
+        "word": "wall",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English wall (West Saxon weall), corresponding to Old Frisian wal, Old Saxon wal(l, (Middle) Low German, (Middle) Dutch wal, Middle High German wal from Middle Low German (modern German wall), a Saxon and Anglo-Frisian adoption of Latin vallum. The Swedish vall, Danish val, are from Low German."
+    },
+    {
+        "id": 53,
+        "word": "path",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian path (West Frisian paad, East Frisian (Saterland) pad, East Frisian (Wangeroog) path), Middle Dutch pad, pat (Dutch pad), Middle Low German pāt, pat, Old High German phad, pfad (Middle High German phat, German Pfad); further etymology uncertain, perhaps borrowed early < an Iranian language (see note below)."
+    },
+    {
+        "id": 54,
+        "word": "bridge",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian bregge (West Frisian brêge), Old Dutch brugga (in place names; Middle Dutch brugge, Dutch brug), Old Saxon bruggia (Middle Low German brugge, brügge), Old High German brugga, brucca (Middle High German brucke, brücke, German Brücke), all in the sense ‘bridge’, and also with Old Icelandic bryggja landing stage, wharf, gangway, (also) bridge, Old Swedish bryggia landing stage, wharf (Swedish brygga), Old Danish brygge landing stage, wharf (Danish brygge), probably < the same Indo-European base as Gaulish brīua bridge (only in place names), Old Russian brĭvĭ log, Old Czech břev small bridge, Serbian and Croatian brv log bridge, and (with a suffix) Old Church Slavonic brĭvŭno log."
+    },
+    {
+        "id": 55,
+        "word": "stream",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic (not recorded in Gothic): Old English stréam (masculine) = Old Frisian strâm (West Frisian stream, North Frisian strôm, strûm), Old Saxon strôm (Dutch stroom), Old High German, Middle High German stroum (modern German strom), Old Norse straum-r (Swedish ström, Danish strøm) < Germanic *straumo-z < pre-Germanic *stroumo-s, < Indogermanic root *srou- (: *sreu-: *srū-) to flow."
+    },
+    {
+        "id": 56,
+        "word": "apple",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian appel apple, Middle Dutch appel apple, pomegranate, orange, any round fruit growing on a tree, pupil, pommel (Dutch appel), Old Saxon appul (only in compounds; Middle Low German appel apple), Old High German apful, aphul, aphel, apfel apple, pomegranate, pupil (Middle High German apfel, German Apfel), Old Icelandic epli apple, any fruit from a tree, Old Swedish æple apple, any fruit from a tree (Swedish äpple), Old Danish æplæ, æpæl apple, any fruit from a tree, (æble), Crimean Gothic apel apple, apparently related to (and perhaps ultimately < the same Indo-European base as) Gaulish avallo, (in place names) aballo- apple tree (perhaps > post-classical Latin ‑abulus in acerabulus kind of maple tree (7th cent.)), Early Irish abal apple tree, ubal, ubul apple (Irish úll), Welsh afall apple tree, afal apple (compare earlier (in a post-classical Latin context) Aballava, the British name of Burgh-by-Sands, Cumberland (probably 2nd cent. in an inscription)), and (if < the same Indo-European base, apparently developed from forms with a long vowel in the first syllable) Old Prussian woble apple, wobalne apple tree, Lithuanian obelis apple tree, obuolys apple, Latvian ābele apple tree, ābols, ābolis apple, Old Church Slavonic jablanĭ apple tree (in an isolated attestation), Old Russian jabolon′ apple tree (Russian jablonja), jabl″ko, jabloko apple (Russian jabloko), Old Polish yabłon apple tree (Polish jabłoń), yablek (genitive plural) apple (Polish jabłko); perhaps compare also Abella, the name of a town in Campania in Italy, perhaps of the same origin (compare Virgil Aeneid 7.740 maliferae..moenia Abellae the walls of apple-bearing Abella). The words in Celtic, Baltic, and Slavonic apparently reflect both a simplex word and a derivative (apparently originally denoting the tree) with a suffix with ‑n‑. For the name of the tree in the Germanic languages see Old English apuldor and its cognates (listed at apple tree n.)."
+    },
+    {
+        "id": 57,
+        "word": "pot",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian pot, Middle Dutch pot (Dutch pot), Middle Low German pot, put (German regional (Low German) pott, putt; > German Pott (16th cent.)), Old Icelandic pottr (Icelandic pottur), Old Swedish pott, potta (Swedish pott, potta), Danish pot, potte, further etymology uncertain (see below). Probably reinforced in Middle English by Anglo-Norman and Old French pot (first half of the 12th cent. in Old French, earliest in metaphorical use); compare Old Occitan pot (14th cent.; Occitan pòt), Catalan pot (1363), Spanish pote (c1450 or earlier; also as bote (c1450)), Portuguese pote (1461), Italian †potto (1611 in Florio; perhaps compare also poto a kind of drink (a1306; now archaic or literary)). Compare also post-classical Latin pottus pot, vessel (frequently from 13th cent. in British and continental sources; perhaps 6th cent. in Venantius Fortunatus as potus, apparently showing alteration after classical Latin pōtus drinking, drink: see pote n.3, although interpretation of this example is not certain); perhaps recorded earlier as a proper name, Pottus, on vessels from Trier, perhaps illustrating the use of the name of the object as a nickname for the manufacturer. The word in the Germanic and Romance languages and in post-classical Latin perhaps ultimately shows a loanword from a pre-Celtic language (perhaps Illyrian or perhaps a non-Indo-European substratal language), although a number of other etymologies have also been suggested."
+    },
+    {
+        "id": 58,
+        "word": "dish",
+        "category": "complex",
+        "origin":"A borrowing from Latin.",
+        "etymology": "Old English disc plate, bowl, platter, = Old High German tisc plate (Middle High German and German tisch table), Old Saxon disk table, Middle Dutch and Dutch disch table, Old Norse diskr plate (? from Old English); West Germanic *disk(s), < Latin discus quoit, dish (in Vulgate), disc n. The Old English (like Old High German and Old Norse) represents a Latin sense of the word, while the sense ‘table’ found in Middle High German and other later dialects corresponds to a later Romanic sense, exemplified by Italian desco, French deis, dais (desk n., dais n.)."
+    },
+    {
+        "id": 59,
+        "word": "key",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian kāi, kēi (West Frisian kaai); further etymology unknown"
+    },
+    {
+        "id": 60,
+        "word": "saddle",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Middle Dutch sādel (Dutch zadel), Middle Low German sādel, Old High German satul, satil (Middle High German satel, German Sattel), Old Icelandic sǫðull, Old Swedish saþul (Swedish sadel), Old Danish sathæl (Danish sadel), further etymology uncertain; a direct connection with the Germanic base of sit v. presents formal difficulties. Perhaps a borrowing (especially since saddles were probably not used by the Germanic peoples at an early date, according to the reports of Roman writers such as Caesar and Tacitus); perhaps compare Old Russian sed′lo (Russian sedlo) and Polish siodło, or classical Latin sella (< *sedlā), all in the sense ‘saddle’ (see settle n.1), but these would also not account for the stem vowel in Germanic."
+    },
+    {
+        "id": 61,
+        "word": "boot",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic: Old English bót (feminine), corresponds to Old Frisian bôte, Old Saxon bôta (Middle Dutch and Dutch boete, Low German bote), Old High German buoȥa (Middle High German buoȥe, modern German Buße), Old Norse bót (Swedish bot, Danish bod), Gothic bôta ‘boot, advantage, good’ < Germanic *bôtâ- (Aryan type *bhādā-), probably a derivative of root bat- (Aryan *bhad-) ‘good, useful’: see better adj., n.1, & adv. Hence beet v., to make good or better."
+    },
+    {
+        "id": 62,
+        "word": "arrow",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Icelandic ǫr (genitive ǫrvar; Icelandic ör), Old Swedish, Swedish arf, and (with a different suffix) Gothic arhwazna, all in sense ‘arrow’ < the same Indo-European base as classical Latin arcus bow (see arc n.)."
+    },
+    {
+        "id": 63,
+        "word": "rain",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian rein (West Frisian rein), Old Dutch rēgan (Middle Dutch rēgen, rēghen, rein, Dutch regen), Old Saxon regan, regin, (in compounds) regen (Middle Low German rēgen), Old High German regan, regen, regin (Middle High German regen, German Regen), Old Icelandic regn, Old Swedish räghn (Swedish regn, (now rare) rägn), Old Danish reghen, reyn (Danish regn), Gothic rign, Crimean Gothic reghen; further etymology unknown. The word has no secure cognates in other Indo-European languages."
+    },
+    {
+        "id": 64,
+        "word": "ice",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian īs (Frisian iis), Middle Dutch īs, ijs (Dutch ijs), Old Saxon īs (Middle Low German īs), Old High German īs (Middle High German īs, German Eis), Old Icelandic íss, Old Swedish, Swedish is, Old Danish, Danish is; further etymology uncertain, perhaps ultimately related to Lithuanian †ynis, Old Church Slavonic inii, inije, Russian inej hoar frost, and perhaps also to Avestan isauu- frost, ice."
+    },
+    {
+        "id": 65,
+        "word": "frost",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian frost, frōst, forst, Old Dutch uorst (Middle Dutch vorst, Dutch vorst), Old Saxon frost (Middle Low German vrost, (rare) vorst), Old High German frost (Middle High German frost, German Frost), Old Icelandic frost, Old Swedish frost (Swedish frost), Old Danish frost (Danish frost) < a suffixed form (compare ‑t suffix3) of the Germanic base of freeze v. Compare also Gothic frius frost, from an unsuffixed form of the same base (see further discussion at freeze v.)."
+    },
+    {
+        "id": 66,
+        "word": "mist",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Middle Dutch mest, mist (Dutch mist), Middle Low German mist, Middle High German mist, Icelandic mistr, mistur, Norwegian (regional or archaic) mist, Swedish mist, Danish mist < an extended form of the Indo-European base of Sanskrit mih mist, vapour, megha cloud, ancient Greek ὀμίχλη mist, cloud, Old Church Slavonic mĭgla mist, cloud, Russian mgla haze, Lithuanian migla mist, Albanian mjegull cloud, mist."
+    },
+    {
+        "id": 67,
+        "word": "storm",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic (not recorded in Gothic): Old English storm masculine corresponding to Frisian, Old Saxon (Middle Low German, Dutch) storm, Old High German (Middle High German, modern German) sturm, Old Norse storm-r (Swedish, Danish storm) < Germanic *sturmo-z (whence Romance *stormo: see stour n.1), < root *stur- (? *stwer-) of stir v."
+    },
+    {
+        "id": 68,
+        "word": "sand",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic (but not recorded in Gothic): Old English sand, sǫnd neuter = Old Frisian sond-, Old Saxon, Middle Low German sand, Middle Dutch sant, sand- (Dutch zand neuter), Old High German sant (Middle High German sant, sand-, modern German sand (masculine), dialect also neuter), Old Norse sand-r (masculine) (Swedish, Danish sand) < Germanic *sando-, probably < earlier *samdo-, *samado- (? whence Old High German *samat, Middle High German sampt) corresponding to Greek ἄμαθος."
+    },
+    {
+        "id": 69,
+        "word": "cliff",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Middle Dutch klif, klef, clif steep slope of a hill or mountain, steep, high rock face on the coast (Dutch klif), Old Saxon klif rock face (Middle Low German klif), Old High German kleb rock face, ridge, promontory (compare German Kliff, probably a borrowing from English), Old Icelandic klif rock face, steep slope, protruding isolated rock, probably < the Germanic base of cleave v.2 Compare clift n., cleeve n., cleo n."
+    },
+    {
+        "id": 70,
+        "word": "well",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian wel, wol (West Frisian wel, wol), Middle Dutch wel, wol, wela, wola, wēle, wole (Dutch wel), Old Saxon wel, wela, (as interjection) wola, (Middle Low German wol), Old High German wela, wola, wol (Middle High German wole, wol, German wohl), Old Icelandic vel, Norn (Shetland) vel, Norwegian vel, Swedish väl, Danish vel, and also (with different ablaut grade) Old Frisian wal, Old Dutch wala, Old Saxon wala, interjection (Middle Low German wal), Old High German wala (rare), Old Icelandic val, and (with different and uncertain vocalism) Gothic waila, apparently < the same Germanic base as will v.1"
+    },
+    {
+        "id": 71,
+        "word": "laugh",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian hlakkia, hlākia, laittia (weak verb, past tense hlakkade; West Frisian laitsje), Middle Dutch lachen, past tense (strong Class VI) loech, also occasionally (weak) lachede, lachte, past participle (strong Class VI) gelachen, also occasionally (weak) gelacht (Dutch lachen, past tense lachte, past participle gelachen), Old Saxon *hlahhian (strong Class VI, only attested in inflected forms: past tense plural hlōgun, past participle hlagan (attested for the derivative bihlahhian); Middle Low German (weak) lachen, past tense lachte), Old High German *hlahhen (strong Class VI, only attested in a glossary in the 3rd singular past tense hlōc), also hlahhēn (weak Class III, past tense hlahhēta; Middle High German, German lachen (weak), past tense lachte, past participle gelacht), Old Icelandic hlæja (strong Class VI, past tense singular hló, past tense plural hlógu, past participle hleginn), Old Swedish leia (strong, past tense lo; Swedish le, past tense log), Old Danish le (strong, past tense lo; Danish le, past tense lo), Gothic hlahjan (strong Class VI, past tense singular *hloh, past tense plural hlohun (attested for the derivative bihlahjan)), Crimean Gothic lachen, all probably ultimately of imitative origin, probably < an Indo-European base of imitative origin; similar formations are seen in e.g. Byzantine Greek κλώσσειν to cluck, Old Church Slavonic klokotati, Old Russian klokotat′ (Russian klokotat′) to bubble, boil, gargle, Russian kloktat′, kloxtat′ to cluck, and the words cited at clock n.1"
+    },
+
+    {
+        "id": 72,
+        "word": "weep",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "A Common Germanic verb, probably originally weak, but in West Germanic assimilated to the reduplicating conjugation: Old English wépan (past tense wéop) corresponds to Old Frisian wêpa to cry aloud (strong past participle wêpin, ‑en), Old Saxon wôpian to bewail (past tense weop), Old High German wuofan to bewail, past tense wiof (Middle High German wuofen, past tense wief), also Old High German wuoffen, past tense wuofita (Middle High German wüefen, past tense wüefte), Old Norse œ́pa (past tense œ́pta) to scream, shout (whence Middle English epe v.), Gothic wōpjan to cry aloud, call; < the Old Germanic *wōpo- represented in Old English wóp (masculine), weeping (see wop n.1), Old Saxon wôp (masculine), lamentation, Old High German, Middle High German wuof (masculine), lamentation, Old Norse óp neuter, cry. Outside Germanic no certain cognates are known."
+    },
+    {
+        "id": 73,
+        "word": "sing",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic: Old English singan, = Old Frisian sionga (West Frisian sjonge, dialect soenge), Middle Dutch singen (Dutch zingen), Old Saxon and Old High German singan (German singen), Old Norse syngva (Icelandic and Norwegian syngja, Swedish sjunga, Danish synge), Gothic siggwan (= singwan). No related forms have been traced in other languages."
+    },
+    {
+        "id": 74,
+        "word": "sit",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian sitta (West Frisian sitte), Old Dutch sitten (Middle Dutch sitten, Dutch zitten), Old Saxon sittian (Middle Low German sitten), Old High German sizzen (Middle High German, German sitzen), Old Icelandic sitja, Old Swedish sitia (Swedish sitta), Old Danish sitia (Danish sidde), Gothic sitan < the same Indo-European base as Sanskrit sad-, ancient Greek ἕζεσθαι, classical Latin sedēre, Early Irish saidid (3rd singular present indicative), Old Church Slavonic sěděti, Lithuanian sėdėti, and also (with prefixation; compare nest n.) Armenian nstim (1st singular present indicative), all in the sense ‘to sit’."
+    },
+    {
+        "id": 75,
+        "word": "lie",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "A Common Germanic strong verb: Old English licgan = Old Frisian liga, lidsa, lidzia, Old Saxon liggian (Dutch, Low German liggen), Old High German and Middle High German liggen, licken, ligen (modern German liegen), Old Norse liggia (Swedish ligga, Danish ligge), Gothic ligan < Old Germanic *ligjan (the Gothic ligan is abnormal), < Germanic root *leg- (:lag-:lǣg-) < West Aryan *legh- (:logh-:lēgh-) to lie; compare Greek λέχος bed, ἄλοχος bedfellow, wife, λόχος lying in wait, ambush, Latin lectus bed, Old Church Slavonic ležati to lie."
+    },
+    {
+        "id": 76,
+        "word": "yew",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Dutch īwa, īwi (Middle Dutch īwe, iewe, ieve, Dutch ijf), Middle Low German īve, īwe, Old High German īwa, īwo, īwi (Middle High German īwe, eiba yew tree, bow, German Eibe yew tree), Old Icelandic ýr yew tree, bow (Icelandic ýr), Swedish regional åyve (compare also with collective suffix Old Swedish ydhe, idhe yew grove (Swedish ide yew wood, id, yd yew tree)), of uncertain origin; apparently < the Indo-European base seen (with various ablaut grades) in ancient Greek οἴη, ὄα, ὄη rowan tree, service tree, classical Latin ūva grape, bunch of grapes (see uva n.), Early Irish eó stem, shaft, tree, (especially) yew tree, Welsh yw (collective) yew trees, yew wood, Russian iva, Polish iwa, Bulgarian iva, all in the sense ‘willow’, Lithuanian ieva bird cherry, although the exact relationship of these forms to each other is unclear."
+    },
+    {
+        "id": 77,
+        "word": "anvil",
+        "category": "simple",
+        "origin":"Apparently a word inherited from Germanic.",
+        "etymology": "Apparently cognate with Middle Dutch (Limburg) aenvilte, Old Saxon anafelti (German regional (Low German) (Westphalia) anefilt, (Rhineland) amfilt), and (with different ablaut grade) Old High German anafalz < the Germanic base of on- prefix + the Germanic base of Old High German ‑falzan to strike, beat (only in compounds) < an extended form (with dental suffix) of the Indo-European base of classical Latin pellere to strike, beat (see pulse v.)."
+    },
+    {
+        "id": 78,
+        "word": "gate",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English geat strong neuter, corresponds formally to Old Frisian gat, jet, hole, opening, Old Saxon gat eye of a needle (Low German and Dutch gat gap, hole, breach), Old Norse gat (see gat n.1) < Old Germanic type *gatom. The word is wanting in Gothic and High German."
+    },
+    {
+        "id": 79,
+        "word": "tell",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian tella to count, declare (Frisian telle), Old Dutch tellen to say, speak, declare, count (Middle Dutch tellen to count, to reckon, consider, relate, say, Dutch tellen to relate, speak, say, reckon, consider, count), Old Saxon tellian to say, relate, reckon, consider, count (Middle Low German tellen to count, count out, pay, reckon), Old High German zellen to reckon, relate, count (Middle High German zeln, zelen, zellen to count, reckon, consider, explain, German zählen to reckon, count), Old Icelandic telja to relate, say, speak, count, Old Swedish tälia to count, reckon, consider, take into account, relate, say, speak (Swedish tälja), Old Danish tælie, tælle to count, pay, say, relate, declare (Danish tælle to count, number, reckon) < the same Germanic base as tale n. and tale v."
+    },
+    {
+        "id": 80,
+        "word": "stall",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic (wanting in Gothic): Old English steall (masculine) standing, state, place, stall for cattle, corresponds to Old Frisian stal (West Frisian stâl, North Frisian stal, staal), Middle Dutch, modern Dutch stal (masculine), Middle Low German stal (masculine, neuter) stall for cattle, Old High German, Middle High German stal (masculine, neuter) place, dwelling, stall for cattle (modern German Stall, masculine), Old Norse stall-r (masculine) supporting block or slab, pedestal, stall for horse (Middle Swedish stalder, Swedish stall, Danish stald stable) < Germanic stallo-. The word passed into Romanic: Italian stallo place, stalla stable, Old French estal place, position, stall for merchandise, etc. (modern French étal butcher's stall). Several of the English senses were probably adopted < Anglo-Norman, but this is not absolutely certain."
+    },
+    {
+        "id": 81,
+        "word": "pillow",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with (with variations in gender and declensional class) Middle Dutch poluwe, poeluwe, poelu, etc. (Dutch peluw), Old Saxon puli (Middle Low German pȫle, pēl, etc.), Old High German pfuluwīn, pfuluwī, pfuluwi, pfuluwo (Middle High German pfülwe, pfulwe, German Pfühl) < classical Latin pulvīnus cushion (see pulvinus n.)."
+    },
+    {
+        "id": 82,
+        "word": "spindle",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Old English spinel (feminine), = Old High German spinela, ‑ala (Middle High German spinele, ‑el, spinle) and spinnila, ‑ela, ‑ala (Middle High German spinnile, ‑ele, ‑el), < the stem of spinnan spin v. The intrusive d of the later forms appears also in Middle Dutch and Dutch, Middle High German and German, Old Frisian spindel (North Frisian spandel); compare also Swedish spindel (Middle Swedish spinnil) spider."
+    },
+    {
+        "id": 83,
+        "word": "sea",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Common Germanic: Old English sǽ (strong masculine and feminine) corresponds to Old Frisian sê (masculine), Old Saxon sêo, sêu, dative sêwa (masculine) (Middle Low German sê, Middle Dutch see (masculine and feminine), Dutch zee (feminine)), Old High German sêo, sê, dative sêwe (masculine) sea, lake, pond (Middle High German sê (masculine and feminine) sea, lake, modern German See (masculine), lake, See (feminine) sea), Old Norse sǽ-r, sjá-r, sjó-r, masculine (Swedish sjö, Danish sø), Gothic saiw-s (masculine) sea, also marsh < Germanic *saiwi-z."
+    },
+    {
+        "id": 84,
+        "word": "fire",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian fiūr, fiōr (West Frisian fjoer), Old Dutch fuir (Middle Dutch vier, vuer, Dutch vuur), Old Saxon fiur (Middle Low German vǖr, vǖer), Old High German fiur, (older) fuir (Middle High German viur, German Feuer), also Old Icelandic (poetic and rare) fýr, fúrr, fýrir fire, Norwegian regional †fur spark, and further with Old Icelandic funi flame, Gothic fun-, fon fire, all ultimately < the same Indo-European base as Hittite paḫḫuen-, paḫḫur, ancient Greek πῦρ, Umbrian pir, Armenian hur, all in sense ‘fire’. (Old Swedish fyr- (in compounds; Swedish fyr) and Danish fyr fire, lighthouse, beacon, are later borrowings from Middle Low German. The usual word for ‘fire’ in North Germanic is represented by Old Icelandic eldr and its cognates: see eld n.1)"
+    },
+    {
+        "id": 85,
+        "word": "smart",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with West Frisian smerte (weak), Middle Dutch smerten, smarten (strong and weak; Dutch smarten (weak)), Middle Low German smerten, smarten (weak), Old High German smerzan (only attested in present tense; Middle High German smerzen (strong and (rarely) weak), German schmerzen (weak)) < a West Germanic base shown also by smart n.1 and smart adj. Compare (< Middle Low German smerten or its later reflex) Swedish smärta, Danish smerte. Further etymology uncertain. Perhaps < any of three different Indo-European bases: (i) that of classical Latin mordēre to bite (see mordant adj.); (ii) that of ancient Greek σμερδνός, σμερδαλέος terrible (further etymology unknown); or (iii) that of Lithuanian smelkti (impersonal) to hurt (hence perhaps ultimately < the same base as smeek v.)."
+    },
+    {
+        "id": 86,
+        "word": "great",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian grāt large, Old Dutch groot large, numerous, mighty (Middle Dutch groot large, mighty, numerous, bulky, Dutch groot), Old Saxon grōt large (Middle Low German grōt large, numerous, powerful), Old High German grōz large, strong, long, thick, fat (Middle High German grōz large, German gross large, extensive), and perhaps further with Old Icelandic grautr (noun) groats, porridge, mash, coarsely ground meal (< the same Germanic base as grit n.1, grits n., grout n.1, groats n., and grot n.1), although see discussion below."
+    },
+    {
+        "id": 87,
+        "word": "one",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian ān, ēn, Middle Dutch ein, een, (Dutch een), Old Saxon ēn (Middle Low German ēn), Old High German ein, ehin, ēn, etc. (Middle High German ein, German ein), Old Icelandic einn, Swedish en, Danish een, en, Gothic ains, < the same Indo-European base as classical Latin ūnus (Old Latin oinos), Gaulish oinos (in names), Early Irish oen, óen (Irish aon), Old Welsh, Welsh un, Old Church Slavonic inŭ other, another, (also, usually in jedĭnŭ, in sense ‘one’), Old Prussian ains, Lithuanian vienas, and also ancient Greek οἴνη, Hellenistic Greek οἰνός ace at dice, perhaps ultimately < an extended form of the base of Gothic is he (see he pron.)."
+    },
+    {
+        "id": 88,
+        "word": "only",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Middle Dutch eenlijc, eenelijc (Dutch †eenlijk), Old Saxon ēnlīk (Middle Low German einlīk, einichlīk), Old High German einlīh (Middle High German einlich unified, integrated), Norwegian (Nynorsk) einleg, Norwegian (Bokmål) einlig, Old Swedish ēnlig, ēnliker (Swedish enlig unified), Danish enlig < the Germanic base of one adj. + the Germanic base of ‑ly suffix1."
+    },
+
+    {
+        "id": 89,
+        "word": "good",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with or formed similarly to Old Frisian gōdia to improve (something), and also (with varying stem classes) Middle Dutch, Dutch goeden to give goods to (a person or group of people), to endow (a person or group of people), in Middle Dutch also (in impersonal construction) to benefit (a person), Old High German gotten to justify (a person) (in an isolated attestation, glossing post-classical Latin justificare justify v.; Middle High German güeten, German (now rare and regional) güten to improve (a person or thing), (reflexive) to improve, to get better), Old Icelandic gœða to give goods to (a person or group of people), to endow (a person or group of people), Old Swedish göþa to enrich (land) with manure (Swedish göda, also in sense ‘to fatten (an animal)’), Old Danish gøtæ to enrich (land) with manure (Danish gøde, also in sense ‘to fatten (an animal)’) < the Germanic base of good adj."
+    },
+    {
+        "id": 90,
+        "word": "town",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.s",
+        "etymology": "Cognate with Old Frisian tūn fence, fenced field, garden, Old Saxon ‑tūn (in scranctūn enclosing fence), Old Dutch tūn fence (Middle Dutch tuun hedge, fence, enclosure, Dutch tuin, now chiefly in sense ‘yard, garden’), Middle Low German tūn hedge, fence, Old High German zūn fence, fortification (Middle High German zūn, German Zaun, now only in sense ‘fence’), Old Icelandic tún fenced plot, enclosure, infield, Faroese tún yard next to a house, Norwegian tun farmyard, Old Swedish tun enclosed piece of land, yard (Swedish tun yard next to a house, garden, (regional: Gotland) fence), Danish tun yard next to a house (in early modern Danish with sense ‘fence’, now rare) < a Germanic base either cognate with or borrowed < the Celtic base of Gaulish dūnon fortified enclosure, hill fort, also ‘hill’, Early Irish dún fortress, Welsh †din fortress, hill fort, city (12th cent.; compare its derivative dinas, with the same senses (13th cent.)), Old Breton din fortress (Breton din), further etymology uncertain and disputed (see note)."
+    },
+    {
+        "id": 91,
+        "word": "money",
+        "category": "complex",
+        "origin":"A borrowing from French.",
+        "etymology": "< Anglo-Norman monai, moné, monee, moneie, monoie, munee, munei and Old French, Middle French monoie, monnoie, moneie, monee, monae, monaye coin, mint (late 12th cent.; compare French monnaie change) < classical Latin monēta, originally the name of a goddess (in classical times regarded as identical with Juno) in whose temple at Rome money was coined, hence, a mint, money; further etymology uncertain, perhaps a foreign loanword, but associated (from ancient times) by popular etymology with monēre to warn, remind (see moneo n.). Compare Old Occitan moneda (c1145), Spanish moneda (1169), Catalan moneda (c1250), Portuguese moeda (1211), Italian moneta (1213 or earlier). Compare mint n.1"
+    },
+    {
+        "id": 92,
+        "word": "acre",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian ekker, ēker, ikker, akker field, cultivated field, measure of land, Middle Dutch acker cultivated field, measure of land (in Old Dutch only in place names; Dutch akker), Old Saxon akkar, akar field, cultivated field (Middle Low German acker, also cultivated land collectively, measure of land), Old High German ackar, acchar, akar cultivated field, field, countryside (as opposed to town) (Middle High German acker, German Acker), Old Icelandic akr cultivated land, field, cornfield (sometimes used in opposition to enclosed homefield), crop, Old Swedish aker, akker cultivated land, field, crop (Swedish åker), Old Danish akær cultivated land (Danish ager), Gothic akrs field < the same Indo-European base as classical Latin ager piece of land, territory, country, region, farm, estate, cultivated land, soil, countryside (as opposed to town), ancient Greek ἀγρός field, farm, cultivated land, countryside (as opposed to town), Sanskrit ajra plain, open country, ultimately < the same Indo-European base as classical Latin agere (see act v.), although the precise type of formation shown and the stages of its development are uncertain and disputed."
+    },
+    {
+        "id": 93,
+        "word": "right",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with or formed similarly to Old Frisian riucht (West Frisian rjocht, rjucht), Old Dutch reht (Middle Dutch recht, Dutch recht), Old Saxon reht (Middle Low German recht), Old High German reht (Middle High German reht, German recht) < the Germanic base of right adj. Compare also Old Icelandic réttr, Old Swedish rätter (Swedish rätt), Old Danish ræt (Danish ret), which reflect a different formation (u-stem) ultimately < the same Germanic base. In some senses (especially sense IV.15 and Phrases P.3) probably also partly aphetic < i-riht n."
+    },
+    {
+        "id": 94,
+        "word": "daughter",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian dochter (West Frisian dochter), Old Saxon dohtar (Middle Low German dochter), Old Dutch dohter (Middle Dutch dochter, Dutch dochter), Old High German tohter (Middle High German tohter, German Tochter), Early Runic dohtriz (plural), Old Icelandic dóttir, Norn (Shetland) daute, Old Swedish dottir (Swedish dotter), Old Danish dotær, dottær (Danish datter, (now chiefly regional) dotter), Gothic dauhtar, and further with Sanskrit duhitṛ, Old Avestan dugədar (Younger Avestan duγδar), Mycenaean Greek tu-ka-te (ancient Greek θυγάτηρ), Oscan futír, Gaulish duxtir, Armenian dowstr, Old Church Slavonic dŭšti (inflected stem dŭšter-), Old Prussian duckti, Lithuanian duktė (inflected stem dukter-), Tocharian A ckācar, Tocharian B tkācer; further etymology uncertain and disputed: a derivation < the same Indo-European base as Sanskrit duh- ‘to milk’ has formerly often been suggested, but poses formal problems. On the ending compare discussion at father n."
+    },
+    {
+        "id": 95,
+        "word": "full",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian ful, fol (West Frisian fol), Old Dutch fol (Middle Dutch vol, vul, Dutch vol), Old Saxon ful, full (Middle Low German vul), Old High German fol (Middle High German vol, German voll), Old Icelandic fullr, Old Swedish fulder (Swedish full), Old Danish fuldær, full (Danish fuld), Gothic fulls, adjective, all in a similar range of senses < the same Indo-European base as Sanskrit pūrṇa, Avestan pərəna-, Old Church Slavonic plĭnŭ, Old Prussian pilnan (accusative singular feminine), Lithuanian pilnas, also (with different ablaut grade) fele adv. and further (with analogical remodelling within Latin) classical Latin plēnus (see pleni- comb. form), and (with irregular vocalism) Early Irish lán, Welsh llawn."
+    },
+    {
+        "id": 96,
+        "word": "few",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian fē, Old Saxon fahu, Old High German fō, fao, Old Icelandic fár, Old Swedish far (Swedish få), Danish faa, Gothic fawai (plural) < the same Indo-European base as (with different extensions) ancient Greek παῦρος little, small, classical Latin parvus small, classical Latin paucus few, and probably also ancient Greek παῖς boy, child. In Middle English partly also (in β forms) < early Scandinavian (compare Old Icelandic fár and other Scandinavian forms listed above)."
+    },
+    {
+        "id": 97,
+        "word": "fart",
+        "category": "simple",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Middle Dutch verten (also vorten), Middle Low German verten (also vorten), Old High German ferzan (Middle High German verzen (also vurzen, varzen (German furzen, (now archaic) farzen))), (with metathesis) Old Icelandic freta (also frata), Swedish fjärta, (regional, with metathesis) fräta, Danish fjærte, fjerte (also, regional, forte) < the same Indo-European base as Sanskrit pardate (3rd singular present indicative), ancient Greek πέρδεσθαι, Russian perdet′, Lithuanian persti, Albanian pjerdh, probably ultimately of imitative origin. Compare the apparently unrelated classical Latin pēdere and its cognates (see pet n.1), apparently also of imitative origin. It is unclear whether the Germanic cognates with stem vowels other than e (or its reflex) show ablaut variation or a secondary development, either by influence of the corresponding noun (compare the Germanic forms at fart n.1) or by (partly imitative) phonetic variation."
+    },
+    {
+        "id": 98,
+        "word": "quick",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian quik (West Frisian kwik, kwyk), Old Dutch quic (Middle Dutch quic, Dutch kwik, kwiek), Old Saxon quik (Middle Low German quik- (apparently only in compounds; compare also quik, noun: see below), German regional (Low German) quick), Old High German quec, quek, also (late) chechh-, cheg (Middle High German quec, also kec, German keck pert, bold, and Queck- (in compounds); compare also German quick lively (< Low German)), Old Icelandic kvikr, kykr, Old Swedish qvikker, kviker (Swedish qvick), Old Danish qwik, qwig, qweg (Danish kvik, also kvæg), apparently related to Gothic qius alive, and also to Sanskrit jīva, classical Latin vīvus, Lithuanian gývas, Old Church Slavonic živŭ, Early Irish béu, béo (Irish beó), Welsh byw (13th cent.) alive, living, ancient Greek βίος life, although the exact nature of the relationship is uncertain (see below)."
+    },
+    {
+        "id": 99,
+        "word": "father",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian fader, feder (West Frisian faar), Old Dutch fadar, fader (Middle Dutch vāder, Dutch vader), Old Saxon fadar, fader (Middle Low German vāder), Old High German fater (Middle High German vater, German Vater), early Scandinavian (runic: Sweden) faþiR, Old Icelandic faðir, Norn (Orkney) fa, (Shetland) fy (definite form fyrin), Old Swedish faþir (Swedish fader, (now usually) far), Old Danish fathær (Danish fader, (now usually) far), Gothic fadar (in an isolated attestation in Galatians 4:6; the ordinary word is atta: see dad n.1), < the same Indo-European base as Sanskrit pitṛ, Old Avestan ptar (Younger Avestan pitar), ancient Greek πατήρ, classical Latin pater (> Old French paire, pedre, Old French, Middle French pere, French père, Old Occitan, Occitan paire, Catalan pare, Spanish padre, Portuguese pãe, Italian padre), Oscan patir, Gaulish ater-, atr-, Early Irish athair, Armenian hayr, Tocharian A pācar, Tocharian B pācer, probably originally a derivative (with suffixation) of a nursery word of the pa type (see papa n.2). A similar suffix is found in other Indo-European relationship terms (compare mother n.1, brother n., daughter n.), although these suffixes may ultimately be of different origin."
+    },
+    {
+        "id": 100,
+        "word": "city",
+        "category": "very_complex",
+        "origin":"A borrowing from French.",
+        "etymology": "< Anglo-Norman citee, citté, cittee, ceté, cetee, sité, sitté, scité, seté, Anglo-Norman and Old French, Middle French cité (French cité) a town, especially an important town (c1100; 10th cent. as ciutat; mid 11th cent. as ciptet with reference to Rome; second half of the 12th cent. or earlier with reference to biblical places), the Judaeo-Christian heaven, regarded as a city (first half of the 12th cent., originally in cité de Deu: see City of God n.), the oldest or fortified part of a town (c1350), the inhabitants of a city collectively (although this meaning is apparently first attested later than in English: c1370), in Anglo-Norman also the historic central part of London (a1377 or earlier) < classical Latin cīvitāt-, cīvitās organized community, state, people living in a community, citizens of a state, state consisting of a city or of a city and surrounding district, town, rights of a citizen, citizenship, in post-classical Latin also Jerusalem (Vulgate), the Church, heaven (5th cent. in Augustine) < cīvis citizen (see civic adj.) + ‑tās (see ‑ty suffix1; compare ‑ity suffix). Compare Old Occitan ciptat, ciutat, cieutat (12th cent.), Catalan ciutat (c1200), Spanish ciudad (end of the 12th cent. as †cibdat, †cibdad), Portuguese cidade (13th cent.), Italian città (mid 13th cent.; beginning of the 13th cent. as †citad; also mid 13th cent. as †citade, †citate, †cittade). Compare earlier town n. and borough n., and see discussion at those entries."
+    },
+    {
+        "id": 101,
+        "word": "over",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with (usually as both adverb and preposition (see over prep.) and as adverbial prefix: see over- prefix) Old Frisian over, Middle Dutch ōver (Dutch over), Old Saxon oƀar, oƀer, ofer (Middle Low German ȫver, ōver), Old High German ubar, (also ubari, ubiri, adverb; Middle High German über, German über), Old Icelandic yfer (also ofar, adverb), Old Swedish övir, yvir (Swedish över), Danish over, Gothic ufar < the same Indo-European base as Sanskrit upari over, above, ancient Greek ὑπέρ over, and (apparently with extended form of the base) classical Latin super above < the Indo-European base of Sanskrit upa towards, near, ancient Greek ὑπό under, Gothic uf (see over adj. for other cognates in Germanic languages), and (apparently with extended form of the base) classical Latin sub under + an Indo-European comparative suffix."
+    },
+    {
+        "id": 102,
+        "word": "heart",
+        "category": "complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian herte, hirte (West Frisian hert), Old Dutch herta (Middle Dutch herte, harte, Dutch hart), Old Saxon herta (Middle Low German herte, harte), Old High German herza (Middle High German herze, herz, German Herz), Old Icelandic hjarta, Swedish hiärta (Swedish hjärta), Old Danish hiarta, hiartæ, hiærtæ (Danish hjerte), Gothic hairto < the same Indo-European base as classical Latin cord-, cor heart, ancient Greek καρδία, κραδία heart, also part of the stomach (the cardiac orifice or the cardia) (also κῆρ heart), Early Irish cride heart, Welsh craidd centre, heart, Old Church Slavonic srĭdĭtse, srŭdĭtse heart, Russian serdce, Czech srdce, Lithuanian šerdis; further etymology uncertain. Semantic developments that are widespread among other early Germanic languages include: courage; the heart as seat of life, of feeling, of thought, or of the will; centre; inner part; most important part. (Use denoting the heart as perceived seat of thought, intelligence, will, emotion, or character is also frequent in classical Latin and post-classical Latin, and this may have influenced use in various Germanic languages.)"
+    },
+    {
+        "id": 103,
+        "word": "alder",
+        "category": "very_complex",
+        "origin":"A word inherited from Germanic.",
+        "etymology": "Cognate with Old Frisian erl, ierl (implied in the derived adjective erlen, ierlen aldern adj.), Old Saxon elira, aeleri (Middle Low German elre, alre, aller), Old High German elira, elera, elre, (with metathesis) erila, erla (Middle High German elre, eller, (with metathesis) erile, erel, erl, erle, German Erle, (now rare or regional) Eller), Old Icelandic elri, alri, neuter, elrir, ǫlr, masculine, Danish el, Old Swedish al (Swedish al), and (< the same Germanic base without the operation of Verner's Law) Old Dutch elis (in place names; Middle Dutch else, Dutch els), Old Saxon els (in a late source; Middle Low German else), and (perhaps < Middle Low German) German Else, probably < the same Indo-European base as (with various ablaut grades) Old Russian ol′xa (Russian ol′xa), el′xa, Serbian and Croatian (regional) jeha, Polish olcha, (with a different suffix) Slovak jelša, and probably Gaulish alisia (e.g. in Alisiia, the name of Alesia, a Gaulish tribal capital (now Alise-Ste-Reine, Burgundy), and also in river names); also (with different suffixes) classical Latin alnus aln n., (additionally with insertion of ‑k‑), Old Prussian alskande or aliskande (attested as abskande, which apparently reflects a scribal error), Lithuanian alksnis, (regional) elksnis, etc."
+    }
+
+]

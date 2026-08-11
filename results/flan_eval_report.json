@@ -1,0 +1,177 @@
+{
+  "system": "FLAN-T5",
+  "total_words": 102,
+  "overall": {
+    "strict_relation_extraction": {
+      "precision": 0.5021,
+      "recall": 0.3661,
+      "f1": 0.4235,
+      "true_positive": 480,
+      "false_positive": 476,
+      "false_negative": 831
+    },
+    "language_only_relation_extraction": {
+      "precision": 0.8629,
+      "recall": 0.6302,
+      "f1": 0.7284,
+      "true_positive": 818,
+      "false_positive": 130,
+      "false_negative": 480
+    },
+    "language_detection": {
+      "precision": 0.9564,
+      "recall": 0.693,
+      "f1": 0.8037,
+      "true_positive": 966,
+      "false_positive": 44,
+      "false_negative": 428
+    },
+    "word_form_detection": {
+      "precision": 0.6395,
+      "recall": 0.4332,
+      "f1": 0.5165,
+      "true_positive": 431,
+      "false_positive": 243,
+      "false_negative": 564
+    },
+    "full_node_detection": {
+      "precision": 0.6569,
+      "recall": 0.4746,
+      "f1": 0.5511,
+      "true_positive": 674,
+      "false_positive": 352,
+      "false_negative": 746
+    }
+  },
+  "by_category": {
+    "simple": {
+      "words": 34,
+      "strict_relation_extraction": {
+        "precision": 0.5363,
+        "recall": 0.4545,
+        "f1": 0.4921,
+        "true_positive": 155,
+        "false_positive": 134,
+        "false_negative": 186
+      },
+      "language_only_relation_extraction": {
+        "precision": 0.8467,
+        "recall": 0.7211,
+        "f1": 0.7788,
+        "true_positive": 243,
+        "false_positive": 44,
+        "false_negative": 94
+      },
+      "language_detection": {
+        "precision": 0.9395,
+        "recall": 0.7973,
+        "f1": 0.8626,
+        "true_positive": 295,
+        "false_positive": 19,
+        "false_negative": 75
+      },
+      "word_form_detection": {
+        "precision": 0.652,
+        "recall": 0.5299,
+        "f1": 0.5846,
+        "true_positive": 133,
+        "false_positive": 71,
+        "false_negative": 118
+      },
+      "full_node_detection": {
+        "precision": 0.6771,
+        "recall": 0.576,
+        "f1": 0.6225,
+        "true_positive": 216,
+        "false_positive": 103,
+        "false_negative": 159
+      }
+    },
+    "complex": {
+      "words": 49,
+      "strict_relation_extraction": {
+        "precision": 0.4928,
+        "recall": 0.3694,
+        "f1": 0.4223,
+        "true_positive": 239,
+        "false_positive": 246,
+        "false_negative": 408
+      },
+      "language_only_relation_extraction": {
+        "precision": 0.8688,
+        "recall": 0.6505,
+        "f1": 0.744,
+        "true_positive": 417,
+        "false_positive": 63,
+        "false_negative": 224
+      },
+      "language_detection": {
+        "precision": 0.9565,
+        "recall": 0.7055,
+        "f1": 0.8121,
+        "true_positive": 484,
+        "false_positive": 22,
+        "false_negative": 202
+      },
+      "word_form_detection": {
+        "precision": 0.6491,
+        "recall": 0.4606,
+        "f1": 0.5388,
+        "true_positive": 222,
+        "false_positive": 120,
+        "false_negative": 260
+      },
+      "full_node_detection": {
+        "precision": 0.655,
+        "recall": 0.48,
+        "f1": 0.554,
+        "true_positive": 336,
+        "false_positive": 177,
+        "false_negative": 364
+      }
+    },
+    "very_complex": {
+      "words": 19,
+      "strict_relation_extraction": {
+        "precision": 0.4725,
+        "recall": 0.2663,
+        "f1": 0.3406,
+        "true_positive": 86,
+        "false_positive": 96,
+        "false_negative": 237
+      },
+      "language_only_relation_extraction": {
+        "precision": 0.8729,
+        "recall": 0.4938,
+        "f1": 0.6307,
+        "true_positive": 158,
+        "false_positive": 23,
+        "false_negative": 162
+      },
+      "language_detection": {
+        "precision": 0.9842,
+        "recall": 0.5533,
+        "f1": 0.7083,
+        "true_positive": 187,
+        "false_positive": 3,
+        "false_negative": 151
+      },
+      "word_form_detection": {
+        "precision": 0.5938,
+        "recall": 0.2901,
+        "f1": 0.3897,
+        "true_positive": 76,
+        "false_positive": 52,
+        "false_negative": 186
+      },
+      "full_node_detection": {
+        "precision": 0.6289,
+        "recall": 0.3536,
+        "f1": 0.4527,
+        "true_positive": 122,
+        "false_positive": 72,
+        "false_negative": 223
+      }
+    }
+  }
+}
