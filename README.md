@@ -43,7 +43,7 @@ Interactive Visualisation
 
 For detailed documentation of the individual files, extraction rules, and implementation, see:
 
-**[PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)**
+**[PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.txt)**
 
 ---
 
